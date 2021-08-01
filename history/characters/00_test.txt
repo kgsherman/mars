@@ -1,0 +1,10 @@
+﻿6000000 = {
+	name = "Test"
+	dna = 6000000_test
+	dynasty = 5000000
+	religion = "testism"
+	culture = "testish"
+	980.1.1 = {
+		birth = yes
+	}
+}

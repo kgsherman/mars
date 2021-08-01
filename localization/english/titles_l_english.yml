@@ -1,0 +1,70 @@
+﻿l_english:
+ TITLE_NAME:0 "$NAME$"
+ TITLE_TIERED_NAME:0 "$TIER|U$ of $NAME$"
+ TITLE_CLAN_TIERED_NAME:0 "the $NAME$ $TIER|U$"
+ TITLE_CLAN_TIERED_WITH_UNDERLYING_NAME:0 "the $NAME$ $TIER|U$ #F ($TIER|U$ of $BASE_NAME$) #!"
+ TITLE_TIER_AS_NAME:0 "$TIER|U$"
+
+ e_test:0 "Test"
+ e_test_adj:0 "Testian"
+ k_test:0 "Test"
+ k_test_adj:0 "Testian"
+ c_test_1:0 "Test"
+ c_test_1_adj:0 "Testian"
+ d_test_1:0 "Test"
+ d_test_1_adj:0 "Testian"
+ b_test_1:0 "Test"
+ b_test_1:0 "Testian"
+
+ k_capri:0 "Capri"
+ d_capri_3:0 "North Capri"
+ c_capri_3_2:0 "Charn"
+ b_capri_3_2_3:0 "Radia"
+ b_capri_3_2_2:0 "Charn Hill"
+ b_capri_3_2_1:0 "Lilipad"
+ c_capri_3_1:0 "Ophelia"
+ b_capri_3_1_3:0 "Rune"
+ b_capri_3_1_2:0 "Muse"
+ b_capri_3_1_1:0 "Ophelia"
+ d_capri_2:0 "West Capri"
+ c_capri_2_2:0 "Hesper's Hymn"
+ b_capri_2_2_2:0 "Reban Utopia"
+ b_capri_2_2_1:0 "Hymn"
+ c_capri_2_1:0 "Capridge"
+ b_capri_2_1_2:0 "Aegisthis Bay"
+ b_capri_2_1_1:0 "Borrow's Spire"
+ d_capri_1:0 "South Capri"
+ c_capri_1_2:0 "Little Home"
+ b_capri_1_2_2:0 "Canban"
+ b_capri_1_2_1:0 "Memento"
+ c_capri_1_1:0 "Loganland"
+ b_capri_1_1_3:0 "Reverence"
+ b_capri_1_1_2:0 "Lesterville"
+ b_capri_1_1_1:0 "Logan's Comfort"
+
+ 
+ k_maja_valles:0 "Maja Valles"
+ d_maja_6:0 "Chia"
+ d_maja_4:0 "Stege"
+
+ k_mutch:0 "Mutch Crater"
+
+ k_havel:0 "Havel"
+
+ k_golden_coast:0 "Golden Coast"
+
+ k_eastmaja:0 "East Maja"
+
+ k_sacramensa:0 "Sacramensa"
+
+ k_wnanedi:0 "West Nanedi"
+
+ k_middlenanedi:0 "Middle Nanedi"
+
+ k_enanedi:0 "East Nanedi"
+
+ k_logan:0 "Logan"
+
+ k_orson:0 "Orson"
+
+ k_owain:0 "Owain's Craters"

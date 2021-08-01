@@ -1,0 +1,431 @@
+﻿NodeEditorMeta={
+	View={
+		Position={ -443.198639 -1137.707397 }
+		Zoom=1.000000
+	}
+	Nodes={
+		4={
+			Position={ 4255.050293 1953.766357 }
+		}
+		5={
+			Position={ 981.929443 1319.617432 }
+			Name="Opacity"
+		}
+		6={
+			Position={ 4151.110840 1502.962891 }
+		}
+		7={
+			Position={ 1246.261719 1146.765625 }
+		}
+		8={
+			Position={ 1682.533936 2542.730469 }
+		}
+		11={
+			Position={ 349.509491 1492.835449 }
+			Name="ColorLower"
+		}
+		15={
+			Position={ 346.123047 1754.999756 }
+			Name="Rate High"
+		}
+		16={
+			Position={ 715.237061 1738.246826 }
+		}
+		19={
+			Position={ 3934.978516 1885.507324 }
+		}
+		20={
+			Position={ 322.064575 1869.703125 }
+			Name="High Height"
+		}
+		21={
+			Position={ 3023.902588 1257.951660 }
+			Name="Lower"
+		}
+		22={
+			Position={ 296.150696 1586.851685 }
+			Name="Low Height"
+		}
+		23={
+			Position={ 720.237061 1477.246826 }
+		}
+		24={
+			Position={ 802.866455 2194.660645 }
+		}
+		25={
+			Position={ 3763.977539 1475.840820 }
+		}
+		26={
+			Position={ 1075.417480 2004.721924 }
+		}
+		28={
+			Position={ 3158.752930 2095.414063 }
+			Name="Lower"
+		}
+		29={
+			Position={ 3672.273438 2017.322021 }
+		}
+		33={
+			Position={ 2997.969482 195.000000 }
+		}
+		35={
+			Position={ 1192.238281 1600.246826 }
+			Name="Position"
+		}
+		36={
+			Position={ 1029.003174 3079.888672 }
+			Name="Opacity"
+		}
+		37={
+			Position={ 2545.125732 1950.173828 }
+		}
+		38={
+			Position={ 1202.294678 2773.263672 }
+		}
+		40={
+			Position={ 3648.977539 1899.507324 }
+		}
+		43={
+			Position={ 2518.927979 357.296631 }
+		}
+		44={
+			Position={ 2456.969482 0.000000 }
+		}
+		45={
+			Position={ 38.308594 1883.932373 }
+			Name="SpeedSlow"
+		}
+		46={
+			Position={ 3713.982422 1291.145264 }
+		}
+		49={
+			Position={ 2619.483643 3184.926758 }
+		}
+		50={
+			Position={ 765.929199 1092.765625 }
+		}
+		51={
+			Position={ 3483.474609 1713.526367 }
+		}
+		54={
+			Position={ 1276.509521 2480.592773 }
+			Name="Position"
+		}
+		55={
+			Position={ 340.985260 1678.830200 }
+			Name="Rate Low"
+		}
+		56={
+			Position={ 1681.720947 2410.100586 }
+			Name="Size"
+		}
+		59={
+			Position={ 4666.979004 1237.841309 }
+		}
+		60={
+			Position={ 3470.237305 1432.025879 }
+		}
+		63={
+			Position={ 3065.841797 2951.481445 }
+			Name="Lower"
+		}
+		64={
+			Position={ 4074.689453 1169.484619 }
+		}
+		66={
+			Position={ 2834.484131 1792.926514 }
+		}
+		67={
+			Position={ 1681.482422 1835.705078 }
+			Name="Size"
+		}
+		68={
+			Position={ 4422.978027 1327.840820 }
+		}
+		69={
+			Position={ 3729.294922 1208.091553 }
+		}
+		77={
+			Position={ 2819.928467 416.296631 }
+		}
+		78={
+			Position={ 2780.969482 58.000000 }
+		}
+		79={
+			Position={ 831.007324 2451.214844 }
+		}
+		82={
+			Position={ 37.061035 1705.997070 }
+			Name="Speed"
+		}
+		84={
+			Position={ 362.096191 2065.608398 }
+			Name="Color High"
+		}
+		85={
+			Position={ 695.253540 2726.013672 }
+		}
+		86={
+			Position={ 781.661865 2091.045166 }
+		}
+		90={
+			Position={ 2377.298584 1466.222412 }
+		}
+		91={
+			Position={ 2372.679443 154.097534 }
+		}
+		93={
+			Position={ 3050.088623 440.062988 }
+		}
+		99={
+			Position={ 1659.187988 1506.184570 }
+		}
+		100={
+			Position={ 1447.073242 2238.881348 }
+			Name="Direction"
+		}
+		102={
+			Position={ 0.000000 2039.092285 }
+			Name="Lifetime"
+		}
+		105={
+			Position={ 811.118652 1956.593262 }
+		}
+		107={
+			Position={ 724.636841 3144.875244 }
+		}
+		110={
+			Position={ 739.386719 1363.750610 }
+		}
+		113={
+			Position={ 677.830383 2983.888184 }
+		}
+		114={
+			Position={ 985.196777 2908.401611 }
+			Name="Saturation"
+		}
+		115={
+			Position={ 2050.383545 2976.309570 }
+		}
+		0={
+			Position={ 3181.012207 4232.881348 }
+			Inlined=yes
+		}
+		1={
+			Position={ 4528.939453 5797.955566 }
+			Inlined=yes
+		}
+		2={
+			Position={ 1849.946655 3546.452148 }
+			Inlined=yes
+		}
+		3={
+			Position={ 2284.308105 2401.296631 }
+			Inlined=yes
+		}
+		9={
+			Position={ 3539.554443 4679.703613 }
+			Inlined=yes
+		}
+		10={
+			Position={ 2452.000000 4546.000000 }
+			Inlined=yes
+		}
+		12={
+			Position={ 1686.011230 3787.555664 }
+			Inlined=yes
+		}
+		13={
+			Position={ 1910.678467 3517.222656 }
+			Inlined=yes
+		}
+		14={
+			Position={ 4711.108887 5959.925293 }
+			Inlined=yes
+		}
+		17={
+			Position={ 2409.407471 3984.000000 }
+			Inlined=yes
+		}
+		18={
+			Position={ 1906.641357 3010.629883 }
+			Inlined=yes
+		}
+		27={
+			Position={ 1878.641357 2832.629883 }
+			Inlined=yes
+		}
+		30={
+			Position={ 1878.641357 2832.629883 }
+			Inlined=yes
+		}
+		31={
+			Position={ 787.261841 2969.875244 }
+			Inlined=yes
+		}
+		32={
+			Position={ 1906.641357 3010.629883 }
+			Inlined=yes
+		}
+		34={
+			Position={ 2050.222168 3259.481445 }
+			Inlined=yes
+		}
+		39={
+			Position={ 2051.745117 3636.042969 }
+			Inlined=yes
+		}
+		41={
+			Position={ 2050.222168 3259.481445 }
+			Inlined=yes
+		}
+		42={
+			Position={ 3627.814453 5000.124023 }
+			Inlined=yes
+		}
+		47={
+			Position={ 1910.678467 3517.222656 }
+			Inlined=yes
+		}
+		48={
+			Position={ 4051.111328 3387.666504 }
+			Inlined=yes
+		}
+		52={
+			Position={ 4557.000000 5125.425781 }
+			Inlined=yes
+		}
+		53={
+			Position={ 4528.939453 5797.955566 }
+			Inlined=yes
+		}
+		57={
+			Position={ 3325.531494 4339.461914 }
+			Inlined=yes
+		}
+		58={
+			Position={ 2284.308105 2401.296631 }
+			Inlined=yes
+		}
+		61={
+			Position={ 1727.489502 3656.904785 }
+			Inlined=yes
+		}
+		62={
+			Position={ 4121.086914 5812.640625 }
+			Inlined=yes
+		}
+		65={
+			Position={ 3356.221191 4339.851563 }
+			Inlined=yes
+		}
+		70={
+			Position={ 787.261841 2969.875244 }
+			Inlined=yes
+		}
+		71={
+			Position={ 4711.108887 5959.925293 }
+			Inlined=yes
+		}
+		72={
+			Position={ 2804.120361 3751.524902 }
+			Inlined=yes
+		}
+		73={
+			Position={ 3778.415771 4519.490234 }
+			Inlined=yes
+		}
+		74={
+			Position={ 2452.000000 4546.000000 }
+			Inlined=yes
+		}
+		75={
+			Position={ 2804.120361 3751.524902 }
+			Inlined=yes
+		}
+		76={
+			Position={ 3539.554443 4679.703613 }
+			Inlined=yes
+		}
+		80={
+			Position={ 2769.000000 4842.000000 }
+			Inlined=yes
+		}
+		81={
+			Position={ 3627.814453 5000.124023 }
+			Inlined=yes
+		}
+		83={
+			Position={ 2051.745117 3636.042969 }
+			Inlined=yes
+		}
+		87={
+			Position={ 3325.531494 4339.461914 }
+			Inlined=yes
+		}
+		88={
+			Position={ 1983.307983 2342.296631 }
+			Inlined=yes
+		}
+		89={
+			Position={ 1727.489502 3656.904785 }
+			Inlined=yes
+		}
+		92={
+			Position={ 3778.415771 4519.490234 }
+			Inlined=yes
+		}
+		94={
+			Position={ 1849.946655 3546.452148 }
+			Inlined=yes
+		}
+		95={
+			Position={ 1983.307983 2342.296631 }
+			Inlined=yes
+		}
+		96={
+			Position={ 1882.641357 3134.629883 }
+			Inlined=yes
+		}
+		97={
+			Position={ 1882.641357 3134.629883 }
+			Inlined=yes
+		}
+		98={
+			Position={ 1910.678467 3517.222656 }
+			Inlined=yes
+		}
+		101={
+			Position={ 1686.011230 3787.555664 }
+			Inlined=yes
+		}
+		103={
+			Position={ 3181.012207 4232.881348 }
+			Inlined=yes
+		}
+		104={
+			Position={ 4557.000000 5125.425781 }
+			Inlined=yes
+		}
+		106={
+			Position={ 3181.012207 4232.881348 }
+			Inlined=yes
+		}
+		108={
+			Position={ 739.386719 1363.750610 }
+			Inlined=yes
+		}
+		109={
+			Position={ 739.386719 1363.750610 }
+			Inlined=yes
+		}
+		111={
+			Position={ 971.955383 2833.888184 }
+			Inlined=yes
+		}
+		112={
+			Position={ 971.955383 2833.888184 }
+			Inlined=yes
+		}
+	}
+}

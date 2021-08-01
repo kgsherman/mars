@@ -1,0 +1,15 @@
+@smCastleX = 0.27
+@smCastleY = 0.23
+@smLysX = 0.23
+@smLysY = 0.26
+@smCross = 0.22
+
+k_test = {
+	pattern = "pattern_solid.dds"
+	color1 = "blue"
+	color2 = "yellow"
+	colored_emblem = {
+		texture = "ce_tree.dds"
+		color1 = "yellow"
+		color2 = "yellow"
+	}

@@ -1,0 +1,72 @@
+# 1 - test
+1 = {	# 1 - 1
+	
+	# Misc
+	culture = testish
+	religion = testism
+	holding = castle_holding
+
+}
+
+2 = {	# 1 - 1
+	
+	# Misc
+	culture = testish
+	religion = testism
+	holding = castle_holding
+
+}
+
+3 = {	# 1 - 1
+	
+	# Misc
+	culture = testish
+	religion = testism
+	holding = castle_holding
+
+}
+
+4 = {	# 1 - 1
+	
+	# Misc
+	culture = testish
+	religion = testism
+	holding = castle_holding
+
+}
+
+5 = {	# 1 - 1
+	
+	# Misc
+	culture = testish
+	religion = testism
+	holding = castle_holding
+
+}
+
+6 = {	# 1 - 1
+	
+	# Misc
+	culture = testish
+	religion = testism
+	holding = castle_holding
+
+}
+
+7 = {	# 1 - 1
+	
+	# Misc
+	culture = testish
+	religion = testism
+	holding = castle_holding
+
+}
+
+8 = {	# 1 - 1
+	
+	# Misc
+	culture = testish
+	religion = testism
+	holding = castle_holding
+
+}

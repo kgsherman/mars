@@ -1,0 +1,7 @@
+﻿l_english:
+ bm_1000_test:0 "Test Bookmark"
+ bm_1000_test_desc:1 "This is a test bookmark.#!"
+
+ #Test
+ bookmark_test_character:0 "Test"
+ bookmark_test_character_desc:0 "This is a test character.#!"

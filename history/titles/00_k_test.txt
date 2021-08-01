@@ -1,0 +1,53 @@
+
+k_test = {
+	980.1.1 = {
+		holder = 6000000
+		government = feudal_government
+	}
+}
+
+
+d_test_1 = {
+	980.1.1 = {
+		holder = 6000000
+		government = feudal_government
+	}
+}
+
+
+c_test_1 = {
+	980.1.1 = {
+		holder = 6000000
+		government = feudal_government
+	}
+}
+
+c_test_2 = {
+	980.1.1 = {
+		holder = 6000000
+		government = feudal_government
+	}
+}
+
+
+d_test_2 = {
+	980.1.1 = {
+		holder = 6000000
+		government = feudal_government
+	}
+}
+
+
+c_test_3 = {
+	980.1.1 = {
+		holder = 6000000
+		government = feudal_government
+	}
+}
+
+c_test_4 = {
+	980.1.1 = {
+		holder = 6000000
+		government = feudal_government
+	}
+}
