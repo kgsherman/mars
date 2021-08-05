@@ -1,0 +1,53 @@
+catalan = {
+		
+	color = { 0.85 0.75 0.08 }
+
+	cadet_dynasty_names = {
+		
+	}
+
+	dynasty_names = {
+		
+	}
+
+	male_names = {
+        Adardo AdriA Ainar A_laks Albartu Alehandru Aleksander Alesh Alessandru A_lvaru Alyas 
+		Andrea Andru A_nhel Antoniu Aris Arnau Bel Benyamin Brunou Carlus Cris Cristis Dago 
+		Danel David Davide Dimitris Enzu Eric Federicu Fernandu Finn Franccescu Franzisccu 
+		Haver HasU_s Horhe Huan HusE Ikar Kabrel Kabrele Kostas Kunstantinus Kylan Leandro 
+		Leo Lim Lucas LuI_s Lurenzo Maks Manel Manus Marc Marcu MartI Marus Masun Mateu MatthE_u 
+		Mattis Mikel Mylan Nic NiculO Nil Noa Pablu Panakotis Pau Petru Pol Rafel Ricardu Roc 
+		Serhiu Spirus Stelus Thanus ThE-u TumA_s Tumassu Uku Yak Yan Yannic Yames Yannis Yarard
+		Yel Yim Yiseppe Yon Yorye Yoryus Yuvanni
+    }
+    female_names = {
+        Abril Aina Alba A_lea Alena Aleni Aleksandra Alessia Alice Amilya Ana Anastasia Andrea 
+		Anna Antonia Anhela Arlet Artemis Aurora Berta Betriche Cara Carla Carmen Cassandra 
+		Charlotte ClA_dia Cloe Cristina Cristine CunzepzO_n Danae Danela Dimitria Dulores Ella 
+		E_milie Emma Eva Franccesca Franzisca Halen Hanna Hosefa Hulia Irena Isabel Isabella
+		Katarina Kaia Kreta Kunstantina Laia Lara Lia Lilly Lisa Luzia Malina Malya Manela MarI_a 
+		Marina Marianna Marta Martina Mary Marzedas Matilde Mia Nami Nicole Noa Ona Pala Pilar 
+		Rakel Sara SofI_a Sophie Talya Taresa Ulivia Vasiliki Vittoria Yana Yanna Yinevra Yoryia 
+		YU_lia Zoe
+    }
+
+	dynasty_of_location_prefix = "dynnp_de"
+	grammar_transform = french
+	always_use_patronym = yes	
+
+	pat_grf_name_chance = 50
+	mat_grf_name_chance = 10
+	father_name_chance = 30
+	
+	pat_grm_name_chance = 40
+	mat_grm_name_chance = 25
+	mother_name_chance = 25
+
+	ethnicities = {
+		10 = mediterranean
+	}
+
+	mercenary_names = {
+		{ name =  coat_of_arms = }
+	}
+}
