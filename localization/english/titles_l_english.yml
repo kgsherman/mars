@@ -16,8 +16,8 @@
  b_test_1:0 "Test"
  b_test_1:0 "Testian"
 
- k_capri:0 "Capri"
- d_capri_3:0 "North Capri"
+ k_capri:0 "Eos"
+ d_capri_3:0 "North Eos"
  c_capri_3_2:0 "Charn"
  b_capri_3_2_3:0 "Radia"
  b_capri_3_2_2:0 "Charn Hill"
@@ -26,14 +26,14 @@
  b_capri_3_1_3:0 "Rune"
  b_capri_3_1_2:0 "Muse"
  b_capri_3_1_1:0 "Ophelia"
- d_capri_2:0 "West Capri"
+ d_capri_2:0 "West Eos"
  c_capri_2_2:0 "Hesper's Hymn"
  b_capri_2_2_2:0 "Reban Utopia"
  b_capri_2_2_1:0 "Hymn"
  c_capri_2_1:0 "Capridge"
  b_capri_2_1_2:0 "Aegisthis Bay"
  b_capri_2_1_1:0 "Borrow's Spire"
- d_capri_1:0 "South Capri"
+ d_capri_1:0 "South Eos"
  c_capri_1_2:0 "Little Home"
  b_capri_1_2_2:0 "Canban"
  b_capri_1_2_1:0 "Memento"
@@ -68,3 +68,29 @@
  k_orson:0 "Orson"
 
  k_owain:0 "Owain's Craters"
+
+ k_test:0 "Test Kingdom Please Ignore"
+
+ k_ravaganges:0 "Ravaganges"
+
+ k_maja:0 "East Maja"
+
+ k_welles:0 "Welles"
+
+ k_goldcoast:0 "Golden Coast"
+
+ k_baetis:0 "Baetis"
+
+ k_ophir:0 "Ophir"
+
+ k_juventae:0 "Juventae"
+ k_cliffs:0 "Cliffs"
+ k_wmaja:0 "West Maja"
+ k_candor:0 "Candor"
+ k_sacramensa:0 "Sacramensa"
+ k_sacrafossae:0 "Sacrafossae"
+ k_sacradorsa:0 "Sacradorsa"
+ k_viking_coast:0 "Viking Coast"
+ k_lunae:0 "Central Lunae"
+ k_echus:0 "Echus Coast"
+ k_metro:0 "Ruins"

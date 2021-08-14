@@ -13,26 +13,35 @@ island_region = "island_region.txt"
 geographical_region = "geographical_region.txt"
 seasons = "seasons.txt"
 
+
+sea_zones = RANGE { 0 106 } 
+lakes = RANGE { 107 239 } 
+river_provinces = RANGE { 240 249 } 
+
+
+
 #############
 # SEA ZONES
 #############
-sea_zones = RANGE { 0 6 }
+# sea_zones = RANGE { 0 52 } 
 
 ###############
 # MAJOR RIVERS
 ###############
-river_provinces= RANGE { 50 52 }
+# river_provinces = RANGE { 176 182 } 
 
 ########
 # LAKES
 ########
-lakes = RANGE { 7 49 }
+# lakes = RANGE { 53 175 } 
 
 #####################
 # IMPASSABLE TERRAIN
 #####################
 # Can be colored by whoever owns the most of the province's neighbours.
 # Blocks unit movement.
+
+# impassable_mountains = RANGE { 63 67 }
 
 ############
 # WASTELAND
