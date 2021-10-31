@@ -1,0 +1,40 @@
+# c_ravaganges_4_3
+281 = {
+	culture = capritish
+	religion = olympianite
+}
+# c_ravaganges_4_2
+284 = {
+	culture = capritish
+	religion = olympianite
+}
+# c_ravaganges_4_1
+290 = {
+	culture = capritish
+	religion = olympianite
+}
+# c_ravaganges_3_5
+294 = {
+	culture = capritish
+	religion = olympianite
+}
+# c_ravaganges_3_4
+303 = {
+	culture = capritish
+	religion = olympianite
+}
+# c_ravaganges_3_3
+305 = {
+	culture = capritish
+	religion = olympianite
+}
+# c_ravaganges_3_2
+308 = {
+	culture = capritish
+	religion = olympianite
+}
+# c_ravaganges_3_1
+314 = {
+	culture = capritish
+	religion = olympianite
+}

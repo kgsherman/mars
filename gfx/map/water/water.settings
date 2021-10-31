@@ -8,21 +8,13 @@
 "FoamMapTexturePath" = "gfx/map/water/foam_map.dds"
 "FoamNoiseTexturePath" = "gfx/map/water/foam_noise.dds"
 
-# "Water.WaterColorShallow" = hsv { 0.600 0.3 0.134375  }				# Most visible at low angle. 
-# "Water.WaterColorDeep" = 	hsv { 0.55 0.2 0.022031 }			# Most visible at high angle, when looking from above
-# "Water.WaterColorMapTint" = hsv { 0.0 0.0 0.0 }			# Color faded in the more you zoom out. 
-# "WaterColorMapTintAlpha" = 1							# How much affect color map tint has. 
-# "WaterColorMapTintStartHeight" = 0.000000					# At what camera height the tinting starts 	
-# "WaterColorMapTintEndHeight" = 10000.000000					# At what camera height the tinting is full
-# "WaterDiffuseMultiplier" = 0								# How much effect the color map has water color. 
-
 "Water.WaterColorShallow" = hsv { 0.600 0.3 0.134375  }				# Most visible at low angle. 
 "Water.WaterColorDeep" = 	hsv { 0.55 0.2 0.022031 }			# Most visible at high angle, when looking from above
 "Water.WaterColorMapTint" = hsv { 0.0 0.0 0.0 }			# Color faded in the more you zoom out. 
 "WaterColorMapTintAlpha" = 1							# How much affect color map tint has. 
 "WaterColorMapTintStartHeight" = 0.000000					# At what camera height the tinting starts 	
 "WaterColorMapTintEndHeight" = 10000.000000					# At what camera height the tinting is full
-"WaterDiffuseMultiplier" = 0							# How much effect the color map has water color. 
+"WaterDiffuseMultiplier" = 0								# How much effect the color map has water color. 
 
 "WaterCubemapIntensity" = 0.5							# Amount of reflection from the sky
 
@@ -79,9 +71,9 @@
 "WaterFlowNormalScale" = 0.025000							# Water scale
 "WaterFlowNormalFlatten" = @wave_flatness 							# ?
 
-"WaterFadeShoreMaskDepth" = 0.5						# Shoreline smoothness. low is jagged, high is smooth. High lowers the water. 
-"WaterFadeShoreMaskSharpness" = 5
-"WaterSeeThroughDensity" = 4.5						# How fast water becomes opaque with depth
+"WaterFadeShoreMaskDepth" = 0.1						# 0.5 Shoreline smoothness. low is jagged, high is smooth. High lowers the water. 
+"WaterFadeShoreMaskSharpness" = 50
+"WaterSeeThroughDensity" = 10						# How fast water becomes opaque with depth
 "WaterSeeThroughDensityAngleOffset" = 0						# How fast water becomes opaque with depth
 "WaterSeeThroughShoreMaskDepth" = 20
 "WaterSeeThroughShoreMaskSharpness" = 1

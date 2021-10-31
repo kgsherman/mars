@@ -1,0 +1,22 @@
+pdxmesh = {
+	name = "craterlake_mesh"
+	file = "craterlake.mesh"
+
+	meshsettings = {
+		name = "pCircleShape1"
+		index = 0
+		texture_diffuse = "nodiffuse.dds"
+		texture_normal = "nonormal.dds"
+		texture_specular = "nospec.dds"
+		shader = "lake"
+		shader_file = "gfx/FX/pdxwater.shader"
+		subpass = Water
+	}
+	scale = 1.0
+}
+
+entity = {
+	name = "craterlake_entity"
+	pdxmesh = "craterlake_mesh"
+	
+}
