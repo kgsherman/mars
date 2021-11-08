@@ -15,28 +15,28 @@
 			color2 = { 255 255 255 }
 			
 			b_mutch_1_2_4 = {
-				province = 15
+				province = 18
 				
 				color = { 161 103 236 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_mutch_1_2_3 = {
-				province = 16
+				province = 19
 				
 				color = { 102 228 162 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_mutch_1_2_2 = {
-				province = 17
+				province = 20
 				
 				color = { 182 190 77 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_mutch_1_2_1 = {
-				province = 18
+				province = 21
 				
 				color = { 249 164 208 }
 				color2 = { 255 255 255 }
@@ -48,21 +48,21 @@
 			color2 = { 255 255 255 }
 			
 			b_mutch_1_1_3 = {
-				province = 19
+				province = 22
 				
 				color = { 65 46 128 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_mutch_1_1_2 = {
-				province = 20
+				province = 23
 				
 				color = { 189 82 58 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_mutch_1_1_1 = {
-				province = 21
+				province = 24
 				
 				color = { 24 221 91 }
 				color2 = { 255 255 255 }
@@ -71,109 +71,111 @@
 		}
 	}
 }
-k_holy_land = {
+k_prosperity = {
 	color = { 255 255 255 }
 	color2 = { 255 255 255 }
 	
-	capital = c_steige
+	capital = c_prosperity_1_1
 	
-	d_holy_2 = {
+	d_prosperity_2 = {
 		color = { 191 191 191 }
 		color2 = { 255 255 255 }
 		
-		capital = c_holy_2_1
+		capital = c_prosperity_2_1
 		
-		c_holy_2_1 = {
-			color = { 223 199 195 }
+		c_prosperity_2_1 = {
+			color = { 234 202 195 }
 			color2 = { 255 255 255 }
 			
-			b_prosperity = {
-				province = 22
+			b_prosperity_2_1_3 = {
+				province = 25
 				
 				color = { 246 10 86 }
 				color2 = { 255 255 255 }
 				
 			}
-		}
-	}
-	d_holy_1 = {
-		color = { 223 199 195 }
-		color2 = { 255 255 255 }
-		
-		capital = c_steige
-		
-		c_holy_1_2 = {
-			color = { 255 210 191 }
-			color2 = { 255 255 255 }
-			
-			b_holy_1_2_2 = {
-				province = 23
+			b_prosperity_2_1_2 = {
+				province = 26
+				
+				color = { 10 246 40 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_prosperity_2_1_1 = {
+				province = 27
 				
 				color = { 185 34 73 }
 				color2 = { 255 255 255 }
 				
 			}
-			b_holy_1_2_1 = {
-				province = 24
+		}
+	}
+	d_prosperity_1 = {
+		color = { 234 202 195 }
+		color2 = { 255 255 255 }
+		
+		capital = c_prosperity_1_1
+		
+		c_prosperity_1_2 = {
+			color = { 255 202 170 }
+			color2 = { 255 255 255 }
+			
+			b_prosperity_1_2_4 = {
+				province = 28
 				
 				color = { 153 38 147 }
 				color2 = { 255 255 255 }
 				
 			}
-		}
-		c_holy_1_1 = {
-			color = { 255 202 159 }
-			color2 = { 255 255 255 }
-			
-			b_west_chia = {
-				province = 25
+			b_prosperity_1_2_3 = {
+				province = 29
 				
 				color = { 252 204 146 }
 				color2 = { 255 255 255 }
 				
 			}
-			b_north_chia = {
-				province = 26
+			b_prosperity_1_2_2 = {
+				province = 30
 				
 				color = { 50 1 171 }
 				color2 = { 255 255 255 }
 				
 			}
-			b_east_chia = {
-				province = 27
+			b_prosperity_1_2_1 = {
+				province = 31
 				
 				color = { 4 80 167 }
 				color2 = { 255 255 255 }
 				
 			}
 		}
-		c_steige = {
-			color = { 255 204 127 }
+		c_prosperity_1_1 = {
+			color = { 255 201 128 }
 			color2 = { 255 255 255 }
 			
-			b_aventine_gap = {
-				province = 28
+			b_prosperity_1_1_4 = {
+				province = 32
 				
 				color = { 169 21 7 }
 				color2 = { 255 255 255 }
 				
 			}
-			b_lower_steige = {
-				province = 29
+			b_prosperity_1_1_3 = {
+				province = 33
 				
 				color = { 201 208 128 }
 				color2 = { 255 255 255 }
 				
 			}
-			b_upper_steige = {
-				province = 30
+			b_prosperity_1_1_2 = {
+				province = 34
 				
 				color = { 176 70 121 }
 				color2 = { 255 255 255 }
 				
 			}
-			b_aventine_bank = {
-				province = 31
+			b_prosperity_1_1_1 = {
+				province = 35
 				
 				color = { 133 240 208 }
 				color2 = { 255 255 255 }
@@ -199,21 +201,21 @@ k_esher = {
 			color2 = { 255 255 255 }
 			
 			b_esher_3_3_3 = {
-				province = 32
+				province = 36
 				
 				color = { 138 59 27 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_esher_3_3_2 = {
-				province = 33
+				province = 37
 				
 				color = { 38 99 148 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_esher_3_3_1 = {
-				province = 34
+				province = 38
 				
 				color = { 170 150 226 }
 				color2 = { 255 255 255 }
@@ -225,28 +227,28 @@ k_esher = {
 			color2 = { 255 255 255 }
 			
 			b_esher_3_2_4 = {
-				province = 35
+				province = 39
 				
 				color = { 131 38 204 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_esher_3_2_3 = {
-				province = 36
+				province = 40
 				
 				color = { 232 225 92 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_esher_3_2_2 = {
-				province = 37
+				province = 41
 				
 				color = { 110 216 138 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_esher_3_2_1 = {
-				province = 38
+				province = 42
 				
 				color = { 154 7 154 }
 				color2 = { 255 255 255 }
@@ -258,28 +260,28 @@ k_esher = {
 			color2 = { 255 255 255 }
 			
 			b_esher_3_1_4 = {
-				province = 39
+				province = 43
 				
 				color = { 79 153 250 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_esher_3_1_3 = {
-				province = 40
+				province = 44
 				
 				color = { 30 5 198 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_esher_3_1_2 = {
-				province = 41
+				province = 45
 				
 				color = { 48 203 241 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_esher_3_1_1 = {
-				province = 42
+				province = 46
 				
 				color = { 106 179 175 }
 				color2 = { 255 255 255 }
@@ -298,21 +300,21 @@ k_esher = {
 			color2 = { 255 255 255 }
 			
 			b_esher_2_3_3 = {
-				province = 43
+				province = 47
 				
 				color = { 89 81 13 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_esher_2_3_2 = {
-				province = 44
+				province = 48
 				
 				color = { 22 62 243 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_esher_2_3_1 = {
-				province = 45
+				province = 49
 				
 				color = { 157 68 79 }
 				color2 = { 255 255 255 }
@@ -324,21 +326,21 @@ k_esher = {
 			color2 = { 255 255 255 }
 			
 			b_esher_2_2_3 = {
-				province = 46
+				province = 50
 				
 				color = { 187 122 204 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_esher_2_2_2 = {
-				province = 47
+				province = 51
 				
 				color = { 136 182 148 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_esher_2_2_1 = {
-				province = 48
+				province = 52
 				
 				color = { 203 120 5 }
 				color2 = { 255 255 255 }
@@ -350,14 +352,14 @@ k_esher = {
 			color2 = { 255 255 255 }
 			
 			b_esher_2_1_2 = {
-				province = 49
+				province = 53
 				
 				color = { 11 95 72 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_esher_2_1_1 = {
-				province = 50
+				province = 54
 				
 				color = { 115 51 148 }
 				color2 = { 255 255 255 }
@@ -376,28 +378,28 @@ k_esher = {
 			color2 = { 255 255 255 }
 			
 			b_esher_1_3_4 = {
-				province = 51
+				province = 55
 				
 				color = { 141 118 181 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_esher_1_3_3 = {
-				province = 52
+				province = 56
 				
 				color = { 177 218 99 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_esher_1_3_2 = {
-				province = 53
+				province = 57
 				
 				color = { 163 181 40 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_esher_1_3_1 = {
-				province = 54
+				province = 58
 				
 				color = { 143 145 42 }
 				color2 = { 255 255 255 }
@@ -409,21 +411,21 @@ k_esher = {
 			color2 = { 255 255 255 }
 			
 			b_esher_1_2_3 = {
-				province = 55
+				province = 59
 				
 				color = { 203 88 75 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_esher_1_2_2 = {
-				province = 56
+				province = 60
 				
 				color = { 115 158 23 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_esher_1_2_1 = {
-				province = 57
+				province = 61
 				
 				color = { 238 131 146 }
 				color2 = { 255 255 255 }
@@ -435,21 +437,21 @@ k_esher = {
 			color2 = { 255 255 255 }
 			
 			b_esher_1_1_3 = {
-				province = 58
+				province = 62
 				
 				color = { 2 48 214 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_esher_1_1_2 = {
-				province = 59
+				province = 63
 				
 				color = { 202 102 180 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_esher_1_1_1 = {
-				province = 60
+				province = 64
 				
 				color = { 193 192 70 }
 				color2 = { 255 255 255 }
@@ -475,21 +477,21 @@ k_havel = {
 			color2 = { 255 255 255 }
 			
 			b_havel_2_3_3 = {
-				province = 61
+				province = 65
 				
 				color = { 210 21 207 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_havel_2_3_2 = {
-				province = 62
+				province = 66
 				
 				color = { 67 105 236 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_havel_2_3_1 = {
-				province = 63
+				province = 67
 				
 				color = { 73 181 169 }
 				color2 = { 255 255 255 }
@@ -501,21 +503,21 @@ k_havel = {
 			color2 = { 255 255 255 }
 			
 			b_havel_2_2_3 = {
-				province = 64
+				province = 68
 				
 				color = { 61 252 214 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_havel_2_2_2 = {
-				province = 65
+				province = 69
 				
 				color = { 19 132 173 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_havel_2_2_1 = {
-				province = 66
+				province = 70
 				
 				color = { 8 215 178 }
 				color2 = { 255 255 255 }
@@ -527,21 +529,21 @@ k_havel = {
 			color2 = { 255 255 255 }
 			
 			b_havel_2_1_3 = {
-				province = 67
+				province = 71
 				
 				color = { 56 239 125 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_havel_2_1_2 = {
-				province = 68
+				province = 72
 				
 				color = { 139 13 87 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_havel_2_1_1 = {
-				province = 69
+				province = 73
 				
 				color = { 254 208 255 }
 				color2 = { 255 255 255 }
@@ -560,21 +562,21 @@ k_havel = {
 			color2 = { 255 255 255 }
 			
 			b_havel_1_2_3 = {
-				province = 70
+				province = 74
 				
 				color = { 194 17 175 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_havel_1_2_2 = {
-				province = 71
+				province = 75
 				
 				color = { 13 113 44 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_havel_1_2_1 = {
-				province = 72
+				province = 76
 				
 				color = { 250 101 145 }
 				color2 = { 255 255 255 }
@@ -586,37 +588,268 @@ k_havel = {
 			color2 = { 255 255 255 }
 			
 			b_havel_1_1_5 = {
-				province = 73
+				province = 77
 				
 				color = { 197 116 113 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_havel_1_1_4 = {
-				province = 74
+				province = 78
 				
 				color = { 206 61 200 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_havel_1_1_3 = {
-				province = 75
+				province = 79
 				
 				color = { 187 82 29 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_havel_1_1_2 = {
-				province = 76
+				province = 80
 				
 				color = { 4 226 19 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_havel_1_1_1 = {
-				province = 77
+				province = 81
 				
 				color = { 151 121 233 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+	}
+}
+k_eridanos = {
+	color = { 84 0 14 }
+	color2 = { 255 255 255 }
+	
+	capital = c_eridanos_1_1
+	
+	d_eridanos_3 = {
+		color = { 20 5 12 }
+		color2 = { 255 255 255 }
+		
+		capital = c_eridanos_3_1
+		
+		c_eridanos_3_3 = {
+			color = { 38 7 19 }
+			color2 = { 255 255 255 }
+			
+			b_eridanos_3_3_3 = {
+				province = 82
+				
+				color = { 209 154 31 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_eridanos_3_3_2 = {
+				province = 83
+				
+				color = { 234 22 219 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_eridanos_3_3_1 = {
+				province = 84
+				
+				color = { 205 36 125 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+		c_eridanos_3_2 = {
+			color = { 56 6 21 }
+			color2 = { 255 255 255 }
+			
+			b_eridanos_3_2_3 = {
+				province = 85
+				
+				color = { 164 20 223 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_eridanos_3_2_2 = {
+				province = 86
+				
+				color = { 121 83 206 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_eridanos_3_2_1 = {
+				province = 87
+				
+				color = { 9 80 58 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+		c_eridanos_3_1 = {
+			color = { 74 3 18 }
+			color2 = { 255 255 255 }
+			
+			b_eridanos_3_1_3 = {
+				province = 88
+				
+				color = { 135 87 60 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_eridanos_3_1_2 = {
+				province = 89
+				
+				color = { 57 210 32 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_eridanos_3_1_1 = {
+				province = 90
+				
+				color = { 16 135 159 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+	}
+	d_eridanos_2 = {
+		color = { 74 3 18 }
+		color2 = { 255 255 255 }
+		
+		capital = c_eridanos_2_1
+		
+		c_eridanos_2_2 = {
+			color = { 92 0 12 }
+			color2 = { 255 255 255 }
+			
+			b_eridanos_2_2_4 = {
+				province = 91
+				
+				color = { 53 68 136 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_eridanos_2_2_3 = {
+				province = 92
+				
+				color = { 138 175 58 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_eridanos_2_2_2 = {
+				province = 93
+				
+				color = { 52 9 93 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_eridanos_2_2_1 = {
+				province = 94
+				
+				color = { 18 180 118 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+		c_eridanos_2_1 = {
+			color = { 110 0 5 }
+			color2 = { 255 255 255 }
+			
+			b_eridanos_2_1_4 = {
+				province = 95
+				
+				color = { 105 67 211 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_eridanos_2_1_3 = {
+				province = 96
+				
+				color = { 150 153 150 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_eridanos_2_1_2 = {
+				province = 97
+				
+				color = { 41 204 92 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_eridanos_2_1_1 = {
+				province = 98
+				
+				color = { 204 113 79 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+	}
+	d_eridanos_1 = {
+		color = { 110 0 5 }
+		color2 = { 255 255 255 }
+		
+		capital = c_eridanos_1_1
+		
+		c_eridanos_1_2 = {
+			color = { 128 5 0 }
+			color2 = { 255 255 255 }
+			
+			b_eridanos_1_2_4 = {
+				province = 99
+				
+				color = { 107 193 16 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_eridanos_1_2_3 = {
+				province = 100
+				
+				color = { 88 230 99 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_eridanos_1_2_2 = {
+				province = 101
+				
+				color = { 43 74 167 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_eridanos_1_2_1 = {
+				province = 102
+				
+				color = { 55 208 72 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+		c_eridanos_1_1 = {
+			color = { 146 18 0 }
+			color2 = { 255 255 255 }
+			
+			b_eridanos_1_1_3 = {
+				province = 103
+				
+				color = { 164 191 126 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_eridanos_1_1_2 = {
+				province = 104
+				
+				color = { 229 183 4 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_eridanos_1_1_1 = {
+				province = 105
+				
+				color = { 49 236 19 }
 				color2 = { 255 255 255 }
 				
 			}

@@ -15,10 +15,7 @@ seasons = "seasons.txt"
 
 sea_zones = RANGE { 0 6 } 
 lakes = RANGE { 7 10 } 
-impassable_mountains = RANGE { 11 14 } 
-
-
-
+impassable_mountains = RANGE { 11 17 } 
 
 
 #############

@@ -1,0 +1,13 @@
+0001 = {
+	name = "Issac"
+	dna = 0001_issac
+	dynasty = 5000000
+	religion = "prosperity_gaean"
+	culture = "havelian"
+	980.1.1 = {
+		effect = {
+			add_character_flag = has_scripted_appearance
+		}	
+		birth = yes
+	}
+}
