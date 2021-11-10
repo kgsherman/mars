@@ -1,0 +1,8 @@
+ruin_holding = {
+	primary_building = ruin_sm
+	buildings = {
+		ruin_perimeter_01
+		ruin_merchants_01
+		ruin_scholars_01
+	}
+}

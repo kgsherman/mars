@@ -1,6 +1,7 @@
 25 = {
 	culture = havelian
 	religion = prosperity_gaean
+	holding = ruin_holding
 }
 26 = {
 	culture = havelian
