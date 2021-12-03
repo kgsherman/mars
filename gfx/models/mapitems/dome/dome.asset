@@ -1,0 +1,20 @@
+pdxmesh = {
+	name = "dome_mesh"
+	file = "dome.mesh"
+	scale = 0.6
+
+	meshsettings = {
+		name = "dome_mesh"
+		index = 0
+		texture_diffuse = "dome_diffuse.dds"
+		texture_normal = "dome_normal.dds"
+		texture_specular = "dome_properties.dds"
+		shader = "standard"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+}
+
+entity = {
+	name = "dome_entity"
+	pdxmesh = "dome_mesh"
+}

@@ -1,0 +1,33 @@
+﻿object={
+	name="dam"
+	clamp_to_water_level=yes
+	render_under_water=no
+	generated_content=no
+	layer="temp_layer"
+	pdxmesh="dam_mesh"
+	count=1
+	transform="5188.257324 -20.536377 2027.735840 0.000000 0.994532 0.000000 -0.104428 1.440754 1.440754 1.440754
+"}
+object={
+	name="dome"
+	clamp_to_water_level=yes
+	render_under_water=no
+	generated_content=no
+	layer="temp_layer"
+	pdxmesh="dome_mesh"
+	count=2
+	transform="5753.876465 -0.222656 2062.708008 0.000000 0.000000 0.000000 1.000000 0.417554 0.417554 0.417554
+5887.961914 1.959229 2048.740723 0.000000 0.221773 0.000000 0.975098 0.527922 0.527922 0.527922
+"}
+object={
+	name="rail_sm"
+	clamp_to_water_level=yes
+	render_under_water=no
+	generated_content=no
+	layer="temp_layer"
+	pdxmesh="rail_sm_mesh"
+	count=3
+	transform="5762.710449 1.813599 2042.309570 0.000000 -0.190359 0.000000 0.981714 0.432959 0.432959 0.432959
+5759.995605 1.386230 2048.980225 0.000000 -0.190359 0.000000 0.981714 0.432959 0.432959 0.432959
+5757.337402 2.145752 2055.665771 0.000000 -0.190359 0.000000 0.981714 0.432959 0.432959 0.432959
+"}

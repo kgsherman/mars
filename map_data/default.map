@@ -13,9 +13,11 @@ island_region = "island_region.txt"
 geographical_region = "geographical_region.txt"
 seasons = "seasons.txt"
 
-sea_zones = RANGE { 0 6 } 
-lakes = RANGE { 7 10 } 
-impassable_mountains = RANGE { 11 17 } 
+sea_zones = RANGE { 222 248 } 
+lakes = RANGE { 249 267 } 
+impassable_mountains = RANGE { 268 285 } 
+
+
 
 
 #############

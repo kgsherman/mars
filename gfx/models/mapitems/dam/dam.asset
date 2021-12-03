@@ -1,0 +1,20 @@
+pdxmesh = {
+	name = "dam_mesh"
+	file = "dam.mesh"
+	scale = 0.6
+
+	meshsettings = {
+		name = "dam"
+		index = 0
+		texture_diffuse = "dam_diffuse.dds"
+		texture_normal = "dam_normal.dds"
+		texture_specular = "dam_properties.dds"
+		shader = "standard"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+}
+
+entity = {
+	name = "dam_entity"
+	pdxmesh = "dam_mesh"
+}

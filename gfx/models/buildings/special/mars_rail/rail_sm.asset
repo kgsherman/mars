@@ -1,0 +1,20 @@
+pdxmesh = {
+	name = "rail_sm_mesh"
+	file = "rail_sm.mesh"
+	scale = 0.6
+
+	meshsettings = {
+		name = "rail_sm"
+		index = 0
+		texture_diffuse = "rail_sm_diffuse.dds"
+		texture_normal = "rail_sm_normal.dds"
+		texture_specular = "rail_sm_properties.dds"
+		shader = "standard"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+}
+
+entity = {
+	name = "rail_sm_entity"
+	pdxmesh = "rail_sm_mesh"
+}
