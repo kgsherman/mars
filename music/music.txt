@@ -15,6 +15,32 @@ mood_TTRPGTharsis = {
 	is_prioritized_mood = yes
 }
 
+mood_PD = {
+	music = "file:/music/Tharsis Rising/TR_PD.wav"
+	weight = 20
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+}
+
+
+mood_The Approach = {
+	music = "file:/music/Tharsis Rising/TR_TheApproach.wav"
+	weight = 20
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+}
+
+mood_TheRedSunRises = {
+	music = "file:/music/Tharsis Rising/TR_TheRedSunRises.mp3"
+	weight = 20
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+}
+
+
 mood_marsC = {
 	music = "file:/music/Tharsis Rising/TR_Mars_C.wav"
 	weight = 20
