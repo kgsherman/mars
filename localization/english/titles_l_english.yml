@@ -153,3 +153,12 @@ k_eos:0 "Eos"
 			b_eos_1_1_3:0 "Logan's Comfort"
 			b_eos_1_1_2:0 "Lesterville"
 			b_eos_1_1_1:0 "Reverence"
+
+k_capri:0 "Capri"
+  d_capri_1:0 "Ganges"
+  d_capri_2:0 "Capri Chasma"
+  d_capri_3:0 "Innsbruck Azusa"
+
+k_aromatum:0 "Aromatum"
+  d_aromatum_1:0 "Windfall"
+  d_aromatum_2:0 "Welles"

@@ -1,0 +1,20 @@
+pdxmesh = {
+	name = "prebuilding_a"
+	file = "precity_a.mesh"
+	scale = 1
+
+	meshsettings = {
+		name = "precity_a"
+		index = 0
+		texture_diffuse = "prebuilding_a_diffuse.dds"
+		texture_normal = "prebuilding_a_normal.dds"
+		texture_specular = "prebuilding_a_properties.dds"
+		shader = "standard"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+}
+
+entity = {
+	name = "precity_building_a_entity"
+	pdxmesh = "prebuilding_a"
+}

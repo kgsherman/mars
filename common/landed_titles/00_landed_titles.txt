@@ -1914,44 +1914,77 @@ k_eos = {
 	}
 }
 k_aromatum = {
-	color = { 83 68 68 }
+	color = { 142 138 38 }
 	color2 = { 255 255 255 }
 	
 	capital = c_aromatum_1_1
 	
 	d_aromatum_2 = {
-		color = { 19 19 19 }
+		color = { 78 65 41 }
 		color2 = { 255 255 255 }
 		
 		capital = c_aromatum_2_1
 		
-		c_aromatum_2_3 = {
-			color = { 40 37 37 }
+		c_aromatum_2_4 = {
+			color = { 96 82 44 }
 			color2 = { 255 255 255 }
 			
-			b_aromatum_2_3_4 = {
+			b_aromatum_2_4_4 = {
 				province = 201
 				
 				color = { 241 180 236 }
 				color2 = { 255 255 255 }
 				
 			}
-			b_aromatum_2_3_3 = {
+			b_aromatum_2_4_3 = {
 				province = 202
 				
 				color = { 165 27 173 }
 				color2 = { 255 255 255 }
 				
 			}
-			b_aromatum_2_3_2 = {
+			b_aromatum_2_4_2 = {
 				province = 203
 				
 				color = { 49 239 252 }
 				color2 = { 255 255 255 }
 				
 			}
-			b_aromatum_2_3_1 = {
+			b_aromatum_2_4_1 = {
 				province = 204
+				
+				color = { 100 123 191 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+		c_aromatum_2_3 = {
+			color = { 114 101 44 }
+			color2 = { 255 255 255 }
+			
+			b_aromatum_2_3_4 = {
+				province = 205
+				
+				color = { 217 177 135 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_aromatum_2_3_3 = {
+				province = 206
+				
+				color = { 141 232 50 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_aromatum_2_3_2 = {
+				province = 207
+				
+				color = { 17 118 191 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_aromatum_2_3_1 = {
+				province = 208
 				
 				color = { 252 71 11 }
 				color2 = { 255 255 255 }
@@ -1959,57 +1992,24 @@ k_aromatum = {
 			}
 		}
 		c_aromatum_2_2 = {
-			color = { 61 53 52 }
+			color = { 132 123 42 }
 			color2 = { 255 255 255 }
 			
-			b_aromatum_2_2_4 = {
-				province = 205
-				
-				color = { 100 123 191 }
-				color2 = { 255 255 255 }
-				
-			}
 			b_aromatum_2_2_3 = {
-				province = 206
-				
-				color = { 217 177 135 }
-				color2 = { 255 255 255 }
-				
-			}
-			b_aromatum_2_2_2 = {
-				province = 207
-				
-				color = { 141 232 50 }
-				color2 = { 255 255 255 }
-				
-			}
-			b_aromatum_2_2_1 = {
-				province = 208
-				
-				color = { 17 118 191 }
-				color2 = { 255 255 255 }
-				
-			}
-		}
-		c_aromatum_2_1 = {
-			color = { 82 67 63 }
-			color2 = { 255 255 255 }
-			
-			b_aromatum_2_1_3 = {
 				province = 209
 				
 				color = { 81 194 171 }
 				color2 = { 255 255 255 }
 				
 			}
-			b_aromatum_2_1_2 = {
+			b_aromatum_2_2_2 = {
 				province = 210
 				
 				color = { 182 93 83 }
 				color2 = { 255 255 255 }
 				
 			}
-			b_aromatum_2_1_1 = {
+			b_aromatum_2_2_1 = {
 				province = 211
 				
 				color = { 239 48 180 }
@@ -2017,33 +2017,59 @@ k_aromatum = {
 				
 			}
 		}
+		c_aromatum_2_1 = {
+			color = { 150 149 37 }
+			color2 = { 255 255 255 }
+			
+			b_aromatum_2_1_3 = {
+				province = 212
+				
+				color = { 103 12 43 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_aromatum_2_1_2 = {
+				province = 213
+				
+				color = { 140 114 214 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_aromatum_2_1_1 = {
+				province = 214
+				
+				color = { 103 226 170 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
 	}
 	d_aromatum_1 = {
-		color = { 82 67 63 }
+		color = { 150 149 37 }
 		color2 = { 255 255 255 }
 		
 		capital = c_aromatum_1_1
 		
 		c_aromatum_1_3 = {
-			color = { 103 81 71 }
+			color = { 158 168 29 }
 			color2 = { 255 255 255 }
 			
 			b_aromatum_1_3_3 = {
-				province = 212
+				province = 215
 				
 				color = { 42 48 94 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_aromatum_1_3_2 = {
-				province = 213
+				province = 216
 				
 				color = { 177 228 74 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_aromatum_1_3_1 = {
-				province = 214
+				province = 217
 				
 				color = { 255 139 204 }
 				color2 = { 255 255 255 }
@@ -2051,32 +2077,32 @@ k_aromatum = {
 			}
 		}
 		c_aromatum_1_2 = {
-			color = { 124 95 75 }
+			color = { 160 186 19 }
 			color2 = { 255 255 255 }
 			
 			b_aromatum_1_2_4 = {
-				province = 215
+				province = 218
 				
 				color = { 33 117 134 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_aromatum_1_2_3 = {
-				province = 216
+				province = 219
 				
 				color = { 151 214 51 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_aromatum_1_2_2 = {
-				province = 217
+				province = 220
 				
 				color = { 138 61 87 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_aromatum_1_2_1 = {
-				province = 218
+				province = 221
 				
 				color = { 89 155 159 }
 				color2 = { 255 255 255 }
@@ -2084,27 +2110,289 @@ k_aromatum = {
 			}
 		}
 		c_aromatum_1_1 = {
-			color = { 145 111 76 }
+			color = { 156 204 6 }
 			color2 = { 255 255 255 }
 			
 			b_aromatum_1_1_3 = {
-				province = 219
+				province = 222
 				
-				color = { 103 12 43 }
+				color = { 72 101 36 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_aromatum_1_1_2 = {
-				province = 220
+				province = 223
 				
-				color = { 140 114 214 }
+				color = { 128 229 167 }
 				color2 = { 255 255 255 }
 				
 			}
 			b_aromatum_1_1_1 = {
-				province = 221
+				province = 224
 				
-				color = { 103 226 170 }
+				color = { 59 207 30 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+	}
+}
+k_capri = {
+	color = { 41 131 188 }
+	color2 = { 255 255 255 }
+	
+	capital = c_capri_1_1
+	
+	d_capri_3 = {
+		color = { 58 118 124 }
+		color2 = { 255 255 255 }
+		
+		capital = c_capri_3_1
+		
+		c_capri_3_3 = {
+			color = { 57 125 138 }
+			color2 = { 255 255 255 }
+			
+			b_capri_3_3_3 = {
+				province = 225
+				
+				color = { 226 221 13 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_capri_3_3_2 = {
+				province = 226
+				
+				color = { 124 207 198 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_capri_3_3_1 = {
+				province = 227
+				
+				color = { 35 32 142 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+		c_capri_3_2 = {
+			color = { 54 130 152 }
+			color2 = { 255 255 255 }
+			
+			b_capri_3_2_2 = {
+				province = 228
+				
+				color = { 29 125 127 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_capri_3_2_1 = {
+				province = 229
+				
+				color = { 4 175 240 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+		c_capri_3_1 = {
+			color = { 50 132 166 }
+			color2 = { 255 255 255 }
+			
+			b_capri_3_1_5 = {
+				province = 230
+				
+				color = { 97 21 31 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_capri_3_1_4 = {
+				province = 231
+				
+				color = { 21 5 123 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_capri_3_1_3 = {
+				province = 232
+				
+				color = { 145 2 70 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_capri_3_1_2 = {
+				province = 233
+				
+				color = { 49 126 24 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_capri_3_1_1 = {
+				province = 234
+				
+				color = { 64 182 213 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+	}
+	d_capri_2 = {
+		color = { 50 132 166 }
+		color2 = { 255 255 255 }
+		
+		capital = c_capri_2_1
+		
+		c_capri_2_3 = {
+			color = { 44 131 180 }
+			color2 = { 255 255 255 }
+			
+			b_capri_2_3_3 = {
+				province = 235
+				
+				color = { 231 72 39 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_capri_2_3_2 = {
+				province = 236
+				
+				color = { 246 251 255 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_capri_2_3_1 = {
+				province = 237
+				
+				color = { 195 177 21 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+		c_capri_2_2 = {
+			color = { 37 127 194 }
+			color2 = { 255 255 255 }
+			
+			b_capri_2_2_3 = {
+				province = 238
+				
+				color = { 169 108 121 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_capri_2_2_2 = {
+				province = 239
+				
+				color = { 45 100 57 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_capri_2_2_1 = {
+				province = 240
+				
+				color = { 2 45 240 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+		c_capri_2_1 = {
+			color = { 28 119 208 }
+			color2 = { 255 255 255 }
+			
+			b_capri_2_1_3 = {
+				province = 241
+				
+				color = { 132 75 48 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_capri_2_1_2 = {
+				province = 242
+				
+				color = { 88 185 203 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_capri_2_1_1 = {
+				province = 243
+				
+				color = { 142 200 104 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+	}
+	d_capri_1 = {
+		color = { 28 119 208 }
+		color2 = { 255 255 255 }
+		
+		capital = c_capri_1_1
+		
+		c_capri_1_3 = {
+			color = { 18 107 222 }
+			color2 = { 255 255 255 }
+			
+			b_capri_1_3_3 = {
+				province = 244
+				
+				color = { 103 64 149 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_capri_1_3_2 = {
+				province = 245
+				
+				color = { 175 181 183 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_capri_1_3_1 = {
+				province = 246
+				
+				color = { 30 162 133 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+		c_capri_1_2 = {
+			color = { 6 91 236 }
+			color2 = { 255 255 255 }
+			
+			b_capri_1_2_2 = {
+				province = 247
+				
+				color = { 71 231 228 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_capri_1_2_1 = {
+				province = 248
+				
+				color = { 51 82 178 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+		c_capri_1_1 = {
+			color = { 0 76 250 }
+			color2 = { 255 255 255 }
+			
+			b_capri_1_1_3 = {
+				province = 249
+				
+				color = { 113 1 102 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_capri_1_1_2 = {
+				province = 250
+				
+				color = { 81 201 143 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_capri_1_1_1 = {
+				province = 251
+				
+				color = { 70 40 98 }
 				color2 = { 255 255 255 }
 				
 			}
