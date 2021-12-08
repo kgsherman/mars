@@ -1,6 +1,6 @@
 #1-50 #House Innsbruck
 1 = {
-	name = "Arthur"
+	name = "Duncan"
 	religion = "prosperity_gaean"
 	culture = "capritish"
 	dynasty = 01 #Innsbruck
@@ -20,6 +20,9 @@
 	944.1.1 = {
 		birth = yes
 	}
+	960.1.1 = {
+		add_spouse = 11 #Sarah
+	}
 	989.1.1 = {
 		death = yes
 	}
@@ -30,6 +33,7 @@
 	culture = "capritish"
 	female = yes
 	father = 2 # Desmond Innsbruck
+	mother = 11 #Sarah
 	dynasty = 01 #Innsbruck
 	dna = 3_serrine
 	963.1.1 = {
