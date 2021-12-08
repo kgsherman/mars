@@ -158,7 +158,23 @@ k_capri:0 "Capri"
   d_capri_1:0 "Ganges"
   d_capri_2:0 "Capri Chasma"
   d_capri_3:0 "Innsbruck Azusa"
+    c_capri_3_3:0 "Creel"
+      b_capri_3_3_3:0 "Creel"
+      b_capri_3_3_2:0 "Azusa"
+      b_capri_3_3_1:0 "Innsbruck"
+    c_capri_3_2:0 "Berseba"
+      b_capri_3_2_1:0 "The Pools"
+      b_capri_3_2_2:0 "Berseba"
+    c_capri_3_1:0 "Ancayo"
+      b_capri_3_1_5:0 "Ancayo"
+      b_capri_3_1_4:0 "Lachute"
+      b_capri_3_1_3:0 "Redhill"
+      b_capri_3_1_2:0 "Sparsewood"
+      b_capri_3_1_1:0 "Deerspot"
+
+
 
 k_aromatum:0 "Aromatum"
   d_aromatum_1:0 "Windfall"
   d_aromatum_2:0 "Welles"
+

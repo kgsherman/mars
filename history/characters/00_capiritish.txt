@@ -1,0 +1,44 @@
+#1-50 #House Innsbruck
+1 = {
+	name = "Arthur"
+	religion = "prosperity_gaean"
+	culture = "capritish"
+	dynasty = 01 #Innsbruck
+	921.1.1 = {
+		birth = yes
+	}
+	964.1.1 = {
+		death = yes
+	}
+}
+2 = {
+	name = "Desmond"
+	religion = "prosperity_gaean"
+	culture = "capritish"
+	father = 1 # Arthur Innsbruck
+	dynasty = 01 #Innsbruck
+	944.1.1 = {
+		birth = yes
+	}
+	989.1.1 = {
+		death = yes
+	}
+}
+3 = {
+	name = "Serrine"
+	religion = "prosperity_gaean"
+	culture = "capritish"
+	female = yes
+	father = 2 # Desmond Innsbruck
+	dynasty = 01 #Innsbruck
+	dna = 3_serrine
+	963.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = has_scripted_appearance
+		}
+	}
+	1023.1.1 = {
+		death = yes
+	}
+}
