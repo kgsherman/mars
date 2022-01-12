@@ -1,0 +1,55 @@
+#Royal family of Aromatum
+10 = {
+	name = "Arthur"
+	religion = "prosperity_gaean"
+	culture = "aromanish"
+	dynasty = 02 #
+	926.1.1 = {
+		birth = yes
+	}
+	978.1.1 = {
+		death = yes
+	}
+}
+11 = {
+	name = "Sarah"
+	religion = "prosperity_gaean"
+	culture = "aromanish"
+	dynasty = 02 #
+	father = 10
+	female = yes
+	947.1.1 = {
+		birth = yes
+	}
+	997.1.1 = {
+		death = yes
+	}
+}
+12 = {
+	name = "Arter"
+	religion = "prosperity_gaean"
+	culture = "aromanish"
+	dynasty = 02 #
+	father = 10
+	trait = twin
+	952.1.1 = {
+		birth = yes
+	}
+	1010.1.1 = {
+		death = yes
+	}
+}
+13 = {
+	name = "Arren"
+	religion = "prosperity_gaean"
+	culture = "aromanish"
+	dynasty = 02 #
+	father = 10
+	trait = twin
+	952.1.1 = {
+		birth = yes
+	}
+	1010.1.1 = {
+		death = yes
+	}
+}

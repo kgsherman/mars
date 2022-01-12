@@ -1,4 +1,4 @@
-﻿5000000 = {
-	name = "dynn_tester"
-	culture = "testish"
+﻿01 = {
+	name = "dynn_Innsbruck"
+	culture = "capritish"
 }
