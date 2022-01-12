@@ -71,13 +71,6 @@
  k_echus:0 "Echus Coast"
  k_metro:0 "Ruins"
 
-ganges_mensa:0 "Ganges Mensa"
-ganges_chasma:0 "Ganges Chasma"
-ganges_chaos:0 "Ganges Chaos"
-capri_chasma_west:0 "Capri Chasma West"
-capri_chasma_east:0 "Capri Chasma East"
-
-
 k_prosperity:0 "Prosperity"
   d_prosperity_1:0 "Chia-Stege"
     c_prosperity_1_1:0 "Stege"
@@ -162,3 +155,5 @@ k_capri:0 "Capri"
 k_aromatum:0 "Aromatum"
   d_aromatum_1:0 "Windfall"
   d_aromatum_2:0 "Welles"
+
+k_angalia:0 "Angalia"

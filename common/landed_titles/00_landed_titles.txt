@@ -2399,3 +2399,366 @@ k_capri = {
 		}
 	}
 }
+k_angalia = {
+	color = { 21 72 61 }
+	color2 = { 255 255 255 }
+	
+	capital = c_angalia_1_1
+	
+	d_angalia_4 = {
+		color = { 4 8 6 }
+		color2 = { 255 255 255 }
+		
+		capital = c_angalia_4_1
+		
+		c_angalia_4_3 = {
+			color = { 9 20 15 }
+			color2 = { 255 255 255 }
+			
+			b_angalia_4_3_3 = {
+				province = 252
+				
+				color = { 67 105 104 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_angalia_4_3_2 = {
+				province = 253
+				
+				color = { 41 101 219 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_angalia_4_3_1 = {
+				province = 254
+				
+				color = { 187 213 164 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+		c_angalia_4_2 = {
+			color = { 13 32 24 }
+			color2 = { 255 255 255 }
+			
+			b_angalia_4_2_4 = {
+				province = 255
+				
+				color = { 165 126 69 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_angalia_4_2_3 = {
+				province = 256
+				
+				color = { 126 188 238 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_angalia_4_2_2 = {
+				province = 257
+				
+				color = { 78 66 98 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_angalia_4_2_1 = {
+				province = 258
+				
+				color = { 103 25 50 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+		c_angalia_4_1 = {
+			color = { 16 44 33 }
+			color2 = { 255 255 255 }
+			
+			b_angalia_4_1_3 = {
+				province = 259
+				
+				color = { 162 10 224 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_angalia_4_1_2 = {
+				province = 260
+				
+				color = { 110 179 150 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_angalia_4_1_1 = {
+				province = 261
+				
+				color = { 127 79 245 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+	}
+	d_angalia_3 = {
+		color = { 16 44 33 }
+		color2 = { 255 255 255 }
+		
+		capital = c_angalia_3_1
+		
+		c_angalia_3_3 = {
+			color = { 18 56 43 }
+			color2 = { 255 255 255 }
+			
+			b_angalia_3_3_5 = {
+				province = 262
+				
+				color = { 98 213 229 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_angalia_3_3_4 = {
+				province = 263
+				
+				color = { 246 101 2 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_angalia_3_3_3 = {
+				province = 264
+				
+				color = { 239 145 56 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_angalia_3_3_2 = {
+				province = 265
+				
+				color = { 231 143 208 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_angalia_3_3_1 = {
+				province = 266
+				
+				color = { 13 82 15 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+		c_angalia_3_2 = {
+			color = { 19 68 54 }
+			color2 = { 255 255 255 }
+			
+			b_angalia_3_2_3 = {
+				province = 267
+				
+				color = { 86 222 94 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_angalia_3_2_2 = {
+				province = 268
+				
+				color = { 27 64 146 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_angalia_3_2_1 = {
+				province = 269
+				
+				color = { 32 9 16 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+		c_angalia_3_1 = {
+			color = { 19 80 65 }
+			color2 = { 255 255 255 }
+			
+			b_angalia_3_1_3 = {
+				province = 270
+				
+				color = { 209 101 44 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_angalia_3_1_2 = {
+				province = 271
+				
+				color = { 186 207 211 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_angalia_3_1_1 = {
+				province = 272
+				
+				color = { 128 51 224 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+	}
+	d_angalia_2 = {
+		color = { 19 80 65 }
+		color2 = { 255 255 255 }
+		
+		capital = c_angalia_2_1
+		
+		c_angalia_2_3 = {
+			color = { 18 92 77 }
+			color2 = { 255 255 255 }
+			
+			b_angalia_2_3_3 = {
+				province = 273
+				
+				color = { 248 146 110 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_angalia_2_3_2 = {
+				province = 274
+				
+				color = { 192 176 168 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_angalia_2_3_1 = {
+				province = 275
+				
+				color = { 114 16 165 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+		c_angalia_2_2 = {
+			color = { 16 104 91 }
+			color2 = { 255 255 255 }
+			
+			b_angalia_2_2_3 = {
+				province = 276
+				
+				color = { 103 131 65 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_angalia_2_2_2 = {
+				province = 277
+				
+				color = { 93 65 122 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_angalia_2_2_1 = {
+				province = 278
+				
+				color = { 177 200 255 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+		c_angalia_2_1 = {
+			color = { 13 116 106 }
+			color2 = { 255 255 255 }
+			
+			b_angalia_2_1_3 = {
+				province = 279
+				
+				color = { 229 148 137 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_angalia_2_1_2 = {
+				province = 280
+				
+				color = { 160 146 91 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_angalia_2_1_1 = {
+				province = 281
+				
+				color = { 216 73 213 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+	}
+	d_angalia_1 = {
+		color = { 13 116 106 }
+		color2 = { 255 255 255 }
+		
+		capital = c_angalia_1_1
+		
+		c_angalia_1_2 = {
+			color = { 8 128 123 }
+			color2 = { 255 255 255 }
+			
+			b_angalia_1_2_4 = {
+				province = 282
+				
+				color = { 68 100 70 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_angalia_1_2_3 = {
+				province = 283
+				
+				color = { 111 213 26 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_angalia_1_2_2 = {
+				province = 284
+				
+				color = { 192 111 187 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_angalia_1_2_1 = {
+				province = 285
+				
+				color = { 120 254 222 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+		c_angalia_1_1 = {
+			color = { 2 138 140 }
+			color2 = { 255 255 255 }
+			
+			b_angalia_1_1_5 = {
+				province = 286
+				
+				color = { 172 88 147 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_angalia_1_1_4 = {
+				province = 287
+				
+				color = { 22 84 137 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_angalia_1_1_3 = {
+				province = 288
+				
+				color = { 248 83 174 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_angalia_1_1_2 = {
+				province = 289
+				
+				color = { 189 193 12 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_angalia_1_1_1 = {
+				province = 290
+				
+				color = { 215 90 231 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+	}
+}
