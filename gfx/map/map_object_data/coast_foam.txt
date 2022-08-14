@@ -5,8 +5,10 @@
 	generated_content=no
 	layer="coast_foam_layer"
 	entity="env_coast_foam_l"
-	count=0
-}
+	count=2
+	transform="5383.392578 -0.035767 1950.386353 0.000000 0.090392 0.000000 0.995906 1.002600 1.002600 1.002600
+5356.397949 -0.035767 1854.280273 0.000000 -0.651480 0.000000 0.758666 1.002600 1.002600 1.002600
+"}
 object={
 	name="env_coast_foam_m"
 	clamp_to_water_level=yes
@@ -14,8 +16,10 @@ object={
 	generated_content=no
 	layer="coast_foam_layer"
 	entity="env_coast_foam_m"
-	count=0
-}
+	count=2
+	transform="6299.024902 -0.028931 1675.709961 0.000000 -0.972802 0.000000 0.231637 1.000000 1.000000 1.000000
+6300.724121 -0.028931 1676.769165 0.000000 0.158990 0.000000 0.987280 1.000000 1.000000 1.000000
+"}
 object={
 	name="env_coast_foam_s"
 	clamp_to_water_level=yes
@@ -23,5 +27,6 @@ object={
 	generated_content=no
 	layer="coast_foam_layer"
 	entity="env_coast_foam_s"
-	count=0
-}
+	count=1
+	transform="6319.428223 -0.149048 1678.472900 0.000000 0.089541 0.000000 0.995983 1.000000 1.000000 1.000000
+"}

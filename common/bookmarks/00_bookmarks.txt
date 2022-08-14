@@ -2,20 +2,5 @@
 	start_date = 1000.1.1
 	is_playable = yes
 
-	character = {
-		name = "bookmark_issac"
-		dynasty = 5000000
-		dynasty_splendor_level = 1
-		type = male
-		birth = 980.1.1
-		title = d_prosperity_1
-		government = feudal_government
-		culture = havelian
-		religion = prosperity_gaean
-		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
-		history_id = 0001
-		position = { 765 590 }
 
-		animation = war_over_loss
-	}
 }

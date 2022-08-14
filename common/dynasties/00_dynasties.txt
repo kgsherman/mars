@@ -1,4 +1,0 @@
-﻿01 = {
-	name = "dynn_Innsbruck"
-	culture = "capritish"
-}

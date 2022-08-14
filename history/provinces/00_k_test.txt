@@ -1,4 +1,0 @@
-250 = {	#capri 323
-	culture = testish
-	religion = olympianite
-}

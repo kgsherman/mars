@@ -8,9 +8,9 @@
 "FoamMapTexturePath" = "gfx/map/water/foam_map.dds"
 "FoamNoiseTexturePath" = "gfx/map/water/foam_noise.dds"
 
-"Water.WaterColorShallow" = hsv { 0.600 0.3 0.134375  }				# Most visible at low angle. 
-"Water.WaterColorDeep" = 	hsv { 0.55 0.2 0.022031 }			# Most visible at high angle, when looking from above
-"Water.WaterColorMapTint" = hsv { 0.0 0.0 0.0 }			# Color faded in the more you zoom out. 
+"WaterColorShallow" = hsv { 0.600 0.3 0.134375  }				# Most visible at low angle. 
+"WaterColorDeep" = 	hsv { 0.55 0.2 0.022031 }			# Most visible at high angle, when looking from above
+"WaterColorMapTint" = hsv { 0.0 0.0 0.0 }			# Color faded in the more you zoom out. 
 "WaterColorMapTintAlpha" = 1							# How much affect color map tint has. 
 "WaterColorMapTintStartHeight" = 0.000000					# At what camera height the tinting starts 	
 "WaterColorMapTintEndHeight" = 10000.000000					# At what camera height the tinting is full

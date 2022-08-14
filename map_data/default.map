@@ -14,6 +14,7 @@ geographical_region = "geographical_region.txt"
 seasons = "seasons.txt"
 
 sea_zones = RANGE { 291 323 } 
+sea_zones = LIST { 0 }
 lakes = RANGE { 324 342 } 
 impassable_mountains = RANGE { 343 364 } 
 
