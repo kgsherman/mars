@@ -1,0 +1,63 @@
+﻿caprician = {
+	color = { 0.8 0.67 0.18 }
+	
+	ethos = ethos_bureaucratic
+	heritage = heritage_capri
+	language = language_capriote
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_sacred_groves
+		tradition_legalistic
+		tradition_ruling_caste
+	}
+	
+	name_list = name_list_capri
+	
+	coa_gfx = { navis_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = {
+		15 = caucasian_blond
+		10 = caucasian_ginger
+		20 = caucasian_brown_hair
+		15 = caucasian_dark_hair
+		20 = african
+		10 = asian
+		5 = arab
+		5 = indian
+	}
+}
+
+aromatian = {
+	color = { 0.76 0.89 0.93 }
+	
+	ethos = ethos_spiritual
+	heritage = heritage_capri
+	language = language_capriote
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_fishermen
+		tradition_quarrelsome
+		tradition_hard_working
+	}
+	
+	name_list = name_list_capri
+
+	coa_gfx = { navis_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { northern_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+	ethnicities = {
+		15 = caucasian_blond
+		10 = caucasian_ginger
+		20 = caucasian_brown_hair
+		15 = caucasian_dark_hair
+		20 = african
+		10 = asian
+		5 = arab
+		5 = indian
+	}
+}

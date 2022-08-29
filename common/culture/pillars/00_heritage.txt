@@ -1,0 +1,23 @@
+﻿heritage_capri = {
+	type = heritage
+}
+
+heritage_maja_valles = {
+	type = heritage
+}
+
+heritage_gold_coast = {
+	type = heritage
+}
+
+heritage_istric = {
+	type = heritage
+}
+
+heritage_ean = {
+	type = heritage
+}
+
+heritage_ophiri = {
+	type = heritage
+}

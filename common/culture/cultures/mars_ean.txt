@@ -1,0 +1,98 @@
+﻿ean = {
+	color = { 0.0 0.38 0.11 }
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_ean
+	language = language_ean
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_equal_inheritance
+		tradition_republican_legacy
+		tradition_things
+		tradition_equitable
+	}
+	
+	name_list = name_list_ean
+	
+	coa_gfx = { eos_coa_gfx western_coa_gfx }
+	building_gfx = { fp1_norse_building_gfx northern_building_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = {
+		15 = caucasian_blond
+		20 = caucasian_ginger
+		10 = caucasian_brown_hair
+		15 = caucasian_dark_hair
+		10 = african
+		10 = asian
+		10 = arab
+		10 = indian
+	}
+}
+
+auroran = {
+	color = { 0.24 0.32 0.16 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_ean
+	language = language_auroran
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_reverence_for_veterans
+		tradition_formation_fighting
+		tradition_equal_inheritance
+		tradition_family_entrepreneurship
+	}
+	
+	name_list = name_list_ean
+
+	coa_gfx = { eos_coa_gfx western_coa_gfx } 
+	building_gfx = { fp1_norse_building_gfx northern_building_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { western_unit_gfx }	
+
+	ethnicities = {
+		15 = caucasian_blond
+		20 = caucasian_ginger
+		10 = caucasian_brown_hair
+		15 = caucasian_dark_hair
+		10 = african
+		10 = asian
+		10 = arab
+		10 = indian
+	}
+}
+
+lochlander = {
+	color = { 0.25 0.41 0.15 }
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_ean
+	language = language_ean
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_equal_inheritance
+		tradition_parochialism
+		tradition_equitable
+		tradition_culture_blending
+	}
+	
+	name_list = name_list_ean
+	
+	coa_gfx = { eos_coa_gfx western_coa_gfx }
+	building_gfx = { fp1_norse_building_gfx northern_building_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = {
+		15 = caucasian_blond
+		20 = caucasian_ginger
+		10 = caucasian_brown_hair
+		15 = caucasian_dark_hair
+		10 = african
+		10 = asian
+		10 = arab
+		10 = indian
+	}
+}

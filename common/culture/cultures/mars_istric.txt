@@ -1,0 +1,31 @@
+﻿istric = {
+	color = { 0.0 0.24 1.0 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_istric
+	language = language_istric_english
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_fervent_temple_builders
+		tradition_seafaring
+		tradition_mystical_ancestors
+	}
+	
+	name_list = name_list_istric
+	
+	coa_gfx = { navis_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx fp1_norse_clothing_gfx northern_clothing_gfx } 
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = {
+		15 = caucasian_blond
+		10 = caucasian_ginger
+		20 = caucasian_brown_hair
+		15 = caucasian_dark_hair
+		20 = african
+		10 = asian
+		5 = arab
+		5 = indian
+	}
+}

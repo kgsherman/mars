@@ -1,0 +1,161 @@
+﻿prosperitan = {
+	color = { 0.0 0.25 0.53 }
+	
+	ethos = ethos_courtly
+	heritage = heritage_maja_valles
+	language = language_anglic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_warriors_by_merit
+		tradition_parochialism
+	}
+	
+	name_list = name_list_maja_valles
+	
+	coa_gfx = { navis_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = {
+		15 = caucasian_blond
+		10 = caucasian_ginger
+		20 = caucasian_brown_hair
+		15 = caucasian_dark_hair
+		20 = african
+		10 = asian
+		5 = arab
+		5 = indian
+	}
+}
+
+esheran = {
+	color = { 0.0 0.0 0.5 }
+	
+	ethos = ethos_bureaucratic
+	heritage = heritage_maja_valles
+	language = language_anglic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_agrarian
+		tradition_wetlanders
+		tradition_hill_dwellers
+		tradition_polders
+	}
+	
+	name_list = name_list_maja_valles
+
+	coa_gfx = { navis_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { western_clothing_gfx fp1_norse_clothing_gfx northern_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+	ethnicities = {
+		15 = caucasian_blond
+		10 = caucasian_ginger
+		20 = caucasian_brown_hair
+		15 = caucasian_dark_hair
+		20 = african
+		10 = asian
+		5 = arab
+		5 = indian
+	}
+}
+
+havelcian = {
+	color = { 0.35 0.45 0.41 }
+	
+	ethos = ethos_bureaucratic
+	heritage = heritage_maja_valles
+	language = language_anglic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_agrarian
+		tradition_hereditary_hierarchy
+		tradition_horse_breeder
+	}
+	
+	name_list = name_list_maja_valles
+
+	coa_gfx = { navis_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+	ethnicities = {
+		15 = caucasian_blond
+		10 = caucasian_ginger
+		20 = caucasian_brown_hair
+		15 = caucasian_dark_hair
+		20 = african
+		10 = asian
+		5 = arab
+		5 = indian
+	}
+}
+
+eridian = {
+	color = hsv{ 0.44 0.26 0.26 }
+	
+	ethos = ethos_courtly
+	heritage = heritage_maja_valles
+	language = language_anglic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_hill_dwellers
+		tradition_xenophilic
+		tradition_martial_admiration
+	}
+	
+	name_list = name_list_maja_valles
+	
+	coa_gfx = { navis_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { western_clothing_gfx fp1_norse_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 
+	
+	ethnicities = {
+		15 = caucasian_blond
+		10 = caucasian_ginger
+		20 = caucasian_brown_hair
+		15 = caucasian_dark_hair
+		20 = african
+		10 = asian
+		5 = arab
+		5 = indian
+	}
+}
+
+craterman = {
+	color = { 0.06 0.5 0.44 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_maja_valles
+	language = language_anglic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_medicinal_plants
+		tradition_monastic_communities
+		tradition_isolationist
+	}
+	
+	name_list = name_list_maja_valles
+
+	coa_gfx = { navis_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+	ethnicities = {
+		15 = caucasian_blond
+		10 = caucasian_ginger
+		20 = caucasian_brown_hair
+		15 = caucasian_dark_hair
+		20 = african
+		10 = asian
+		5 = arab
+		5 = indian
+	}
+}

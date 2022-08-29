@@ -1,0 +1,31 @@
+﻿ophiri = {
+	color = { 0.5 0.0 0.0 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_ophiri
+	language = language_ophiri
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_quarrelsome
+		tradition_faith_bound
+		tradition_culinary_art
+	}
+	
+	name_list = name_list_ophiri
+	
+	coa_gfx = { ophiri_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx indian_building_gfx }
+	clothing_gfx = { indian_clothing_gfx fp1_norse_clothing_gfx } 
+	unit_gfx = { indian_unit_gfx }
+	
+	ethnicities = {
+		10 = caucasian_blond
+		15 = caucasian_ginger
+		15 = caucasian_brown_hair
+		20 = caucasian_dark_hair
+		15 = african
+		10 = asian
+		10 = arab
+		15 = indian
+	}
+}

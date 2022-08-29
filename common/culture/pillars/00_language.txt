@@ -1,0 +1,125 @@
+﻿language_anglic = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_anglic
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_anglic }
+			multiply = 10
+		}
+	}
+	
+	color = { 0.0 0.25 0.53 }
+}
+
+language_capriote = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_capriote
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_capriote }
+			multiply = 10
+		}
+	}
+	
+	color = { 0.8 0.67 0.18 }
+}
+
+language_tempan = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_tempan
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_tempan }
+			multiply = 10
+		}
+	}
+	
+	color = { 0.75 0.85 0.69 }
+}
+
+language_istric_english = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_istric_english
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_istric_english }
+			multiply = 10
+		}
+	}
+	
+	color = { 0.0 0.24 1.0 }
+}
+
+language_ean = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_ean
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_ean }
+			multiply = 10
+		}
+	}
+	
+	color = { 0.0 0.38 0.11 }
+}
+
+language_auroran = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_auroran
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_auroran }
+			multiply = 10
+		}
+	}
+	
+	color = { 0.24 0.32 0.16 }
+}
+
+language_ophiri = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_ophiri
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_ophiri }
+			multiply = 10
+		}
+	}
+	
+	color = { 0.5 0.0 0.0 }
+}
