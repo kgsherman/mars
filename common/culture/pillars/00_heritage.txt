@@ -21,3 +21,23 @@ heritage_ean = {
 heritage_ophiri = {
 	type = heritage
 }
+
+heritage_viking = {
+	type = heritage
+}
+
+heritage_sacran = {
+	type = heritage
+}
+
+heritage_juventae_plainfolk = {
+	type = heritage
+}
+
+heritage_echus_coast = {
+	type = heritage
+}
+
+heritage_navis_redlands = {
+	type = heritage
+}

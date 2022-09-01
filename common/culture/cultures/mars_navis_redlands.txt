@@ -1,0 +1,33 @@
+﻿rustrider = {
+	color = { 0.33 0.62 0.76 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_navis_redlands
+	language = language_rust_tongue
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hit_and_run
+		tradition_dryland_dwellers
+		tradition_hussar
+		tradition_steppe_tolerance
+	}
+	#We need a car restoration tradition
+	
+	name_list = name_list_rustrider
+	
+	coa_gfx = { rustrider_coa_gfx steppe_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { indian_clothing_gfx dde_abbasid_clothing_gfx mena_clothing_gfx } 
+	unit_gfx = { indian_unit_gfx }
+	
+	ethnicities = {
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		15 = caucasian_brown_hair
+		20 = caucasian_dark_hair
+		15 = african
+		15 = asian
+		15 = arab
+		15 = indian
+	}
+}

@@ -1,0 +1,69 @@
+﻿bayfolk = {
+	color = { 0.33 0.06 0.20 }
+	
+	ethos = ethos_courtly
+	heritage = heritage_echus_coast
+	language = language_bay_tongue
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_festivities
+		tradition_maritime_mercantilism
+	}
+	
+	dlc_tradition = {
+		trait = tradition_fp2_ritualised_friendship
+		requires_dlc_flag = the_fate_of_iberia
+		fallback = wedding_ceremonies
+	}
+	
+	name_list = name_list_bayfolk
+	
+	coa_gfx = { echus_coast_coa_gfx byzantine_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx indian_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+
+	ethnicities = {
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		25 = caucasian_brown_hair
+		30 = caucasian_dark_hair
+		10 = african
+		5 = asian
+		10 = arab
+		5 = indian
+	}
+}
+
+mossmen = {
+	color = { 0.33 0.39 0.17 }
+	
+	ethos = ethos_communal
+	heritage = heritage_echus_coast
+	language = language_forest_whispers
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_forest_fighters
+		tradition_isolationist
+		tradition_tribe_unity
+	}
+	
+	name_list = name_list_mossmen
+
+	coa_gfx = { mossmen_coa_gfx byzantine_group_coa_gfx western_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { norse_unit_gfx }	
+
+	#Make a green ethnicity!
+	ethnicities = {
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		25 = caucasian_brown_hair
+		15 = caucasian_dark_hair
+		20 = african
+		5 = asian
+		15 = arab
+		10 = indian
+	}
+}

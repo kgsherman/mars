@@ -1,0 +1,111 @@
+﻿upcoaster = {
+	color = { 0.37 0.15 0.02 }
+	
+	ethos = ethos_communal
+	heritage = heritage_viking
+	language = language_viking
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_tribe_unity
+		tradition_fishermen
+	}
+	
+	dlc_tradition = {
+		trait = tradition_fp1_coastal_warriors
+		requires_dlc_flag = the_northern_lords
+		fallback = tradition_hird
+	}
+	
+	name_list = name_list_viking
+	
+	coa_gfx = { viking_coa_gfx western_coa_gfx }
+	building_gfx = { fp1_norse_building_gfx northern_building_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { norse_unit_gfx }
+	
+	ethnicities = {
+		25 = caucasian_blond
+		25 = caucasian_ginger
+		15 = caucasian_brown_hair
+		15 = caucasian_dark_hair
+		5 = african
+		5 = asian
+		5 = arab
+		5 = indian
+	}
+}
+
+midcoaster = {
+	color = { 0.5 0.16 0.16 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_viking
+	language = language_viking
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_ancient_miners
+		tradition_battlefield_looters
+		tradition_hard_working
+	}
+	
+	dlc_tradition = {
+		trait = tradition_fp1_coastal_warriors
+		requires_dlc_flag = the_northern_lords
+		fallback = tradition_hird
+	}
+	
+	name_list = name_list_viking
+
+	coa_gfx = { viking_coa_gfx western_coa_gfx } 
+	building_gfx = { fp1_norse_building_gfx northern_building_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { norse_unit_gfx }	
+
+	ethnicities = {
+		25 = caucasian_blond
+		20 = caucasian_ginger
+		15 = caucasian_brown_hair
+		10 = caucasian_dark_hair
+		10 = african
+		10 = asian
+		5 = arab
+		5 = indian
+	}
+}
+
+lowcoaster = {
+	color = { 0.4 0.0 0.0 }
+	
+	ethos = ethos_courtly
+	heritage = heritage_viking
+	language = language_viking
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_chivalry
+		tradition_culture_blending
+	}
+	
+	dlc_tradition = {
+		trait = tradition_fp1_coastal_warriors
+		requires_dlc_flag = the_northern_lords
+		fallback = tradition_hird
+	}
+	
+	name_list = name_list_viking
+
+	coa_gfx = { viking_coa_gfx western_coa_gfx } 
+	building_gfx = { fp1_norse_building_gfx northern_building_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { norse_unit_gfx }	
+
+	ethnicities = {
+		20 = caucasian_blond
+		10 = caucasian_ginger
+		15 = caucasian_brown_hair
+		10 = caucasian_dark_hair
+		15 = african
+		15 = asian
+		10 = arab
+		5 = indian
+	}
+}

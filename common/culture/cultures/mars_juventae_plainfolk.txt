@@ -1,0 +1,63 @@
+﻿juvie = {
+	color = { 0.67 0.67 1.0 }
+	
+	ethos = ethos_spiritual
+	heritage = heritage_juventae_plainfolk
+	language = language_juvie_amalgam
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_zealous_people
+		tradition_agrarian
+		tradition_culinary_art
+	}
+	
+	name_list = name_list_juventae_plainfolk
+	
+	coa_gfx = { juventae_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = {
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		15 = caucasian_brown_hair
+		15 = caucasian_dark_hair
+		15 = african
+		15 = asian
+		15 = arab
+		10 = indian
+	}
+}
+
+dittaino = {
+	color = { 0.67 0.51 1.0 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_juventae_plainfolk
+	language = language_dittaino_amalgam
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_diasporic
+		tradition_charitable
+		tradition_concubines
+	}
+	
+	name_list = name_list_juventae_plainfolk
+
+	coa_gfx = { juventae_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+
+	ethnicities = {
+		5 = caucasian_blond
+		5 = caucasian_ginger
+		25 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+		10 = african
+		10 = asian
+		10 = arab
+		10 = indian
+	}
+}

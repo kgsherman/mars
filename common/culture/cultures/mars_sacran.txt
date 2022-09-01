@@ -1,0 +1,95 @@
+﻿sacran = {
+	color = { 0.55 0.46 0.0 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_sacran
+	language = language_sacran
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_swords_for_hire
+		tradition_forest_fighters
+		tradition_hunters
+	}
+	
+	name_list = name_list_sacran
+	
+	coa_gfx = { sacran_coa_gfx norse_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { indian_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { norse_unit_gfx }
+	
+	ethnicities = {
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		20 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+		10 = african
+		10 = asian
+		15 = arab
+		5 = indian
+	}
+}
+
+echer = {
+	color = { 0.65 0.49 0.24 }
+	
+	ethos = ethos_bureaucratic
+	heritage = heritage_sacran
+	language = language_torres_sacran
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_metal_craftsmanship
+		tradition_maritime_mercantilism
+		tradition_hit_and_run
+	}
+	
+	name_list = name_list_torres_sacran
+
+	coa_gfx = { echer_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { indian_clothing_gfx northern_clothing_gfx } 
+	unit_gfx = { byzantine_unit_gfx } 	
+
+	ethnicities = {
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		20 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+		10 = african
+		10 = asian
+		10 = arab
+		10 = indian
+	}
+}
+
+dorsan = {
+	color = { 0.33 0.08 0.11 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_sacran
+	language = language_dorsan
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_castle_keepers
+		tradition_stalwart_defenders
+		tradition_quarrelsome
+	}
+	
+	name_list = name_list_sacran
+
+	coa_gfx = { echus_coast_coa_gfx byzantine_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx indian_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+
+	ethnicities = {
+		20 = caucasian_blond
+		5 = caucasian_ginger
+		25 = caucasian_brown_hair
+		20 = caucasian_dark_hair
+		10 = african
+		5 = asian
+		10 = arab
+		5 = indian
+	}
+}
