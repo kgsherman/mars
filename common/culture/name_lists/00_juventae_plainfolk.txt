@@ -393,14 +393,14 @@
 	}
 	
 	male_names = {
-		William Will_William John Jack_John Ian_John Peter Richard Rick_Richard Robert Rob_Robert Bob_Robert Thomas Tom_Thomas Mohammed Mohamed_Mohammed Adam Noah Hugh Nicholas Nick_Nicholas Liam Alexander Alex_Alexander Andrew Andy_Andrew Chris_Christopher David Edward Elijah Eli_Elijah Eric Benjamin George Ethan Lucas Ewan Mark Martin Matthew Louis Lewis_Louis James Carlos Ahmed Yan Ali Li Abdul Ying Sergey Vladimir
+		William Will John Jack Ian Peter Richard Rick Robert Rob Bob Thomas Tom Mohammed Adam Noah Hugh Nicholas Nick Liam Alexander Alex Andrew Andy Chris David Edward Elijah Eli Eric Benjamin George Ethan Lucas Ewan Mark Martin Matthew Louis Lewis James Carlos Ahmed Yan Ali Li Abdul Ying Sergey Vladimir
 		
-		Giuseppe Giovanni_John Antonio_Anthony Francesco Andrea Luigi Mario Salvatore Vincenzo_Vincent Roberto_Robert Paolo_Paul Marco_Mark Angelo Domenico Pietro_Peter Alessandro_Alexander Carlo_Carlos Stefano_Stephen Massimo_Magnus Nicola_Nicholas Giorgio_George Bruno Maurizio Luciano Alberto Luca Pasquate Mauro Sergio_Sergey Fabio Claudio_Claude Enrico_Eric Antonino_Anthony Raffaele Giancarlo Simone_Simon Daniele_Daniel Vittorio Aldo Lorenzo_Laurence Renato
+		Giuseppe Giovanni Antonio Francesco Andrea Luigi Mario Salvatore Vincenzo Roberto Paolo Marco Angelo Domenico Pietro Alessandro Carlo Stefano Massimo Nicola Giorgio Bruno Maurizio Luciano Alberto Luca Pasquate Mauro Sergio Fabio Claudio Enrico Antonino Raffaele Giancarlo Simone Daniele Vittorio Aldo Lorenzo Renato
 	}
 	female_names = {
-		Adelaide Anne Anna_Anne Beatrice Catherine Elizabeth Elisabeth_Elizabeth Emma Maria Mary_Maria Bianca Penelope Sophia Emily Madison Rose
+		Adelaide Anna Beatrice Catherine Emma Maria Mary Bianca Penelope Sophia Emily Madison Rose
 		
-		Andrea Rosa_Rose Angela Giovanna_Joanna Giuseppina Francesca Lucia Laura Carmela Teresa Daniela Rita Caterina_Catherine Elena Patrizia_Patricia Antonietta Carla Antonella Giuseppa Concetta Franca_Francesca Antonia Silvana Alessandra Cristina Stefania Gabriella Simone Roberta Barbara Monica Grazia_Grace Luisa Elisabetta_Elizabeth Margherita_Margaret Luciana_Lucia Filomena Marisa_Maria
+		Andrea Rosa Angela Giovanna Giuseppina Francesca Lucia Laura Carmela Teresa Daniela Rita Caterina Elena Patrizia Antonietta Carla Antonella Giuseppa Concetta Franca Antonia Silvana Alessandra Cristina Stefania Gabriella Simone Roberta Barbara Monica Grazia Luisa Elisabetta Margherita Luciana Filomena Marisa
 	}
 	dynasty_of_location_prefix = "dynnp_di"
 

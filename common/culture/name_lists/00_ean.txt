@@ -447,14 +447,14 @@
 	}
 	
 	male_names = {
-		William Will_William John Jack_John Ian_John Peter Richard Rick_Richard Robert Rob_Robert Bob_Robert Thomas Tom_Thomas Mohammed Mohamed_Mohammed Adam Noah Hugh Nicholas Nick_Nicholas Liam Alexander Alex_Alexander Andrew Andy_Andrew Chris_Christopher David Edward Elijah Eli_Elijah Eric Benjamin George Ethan Lucas Ewan Mark Martin Matthew Louis Lewis_Louis James Carlos Ahmed Yan Ali Li Abdul Ying Sergey Vladimir
+		William Will John Jack Peter Richard Rick Robert Rob Thomas Mohammed Adam Noah Hugh Nicholas Nick Liam Alexander Alex Andrew Andy Chris David Edward Elijah Eli Eric Benjamin George Ethan Lucas Ewan Mark Martin Matthew Louis Lewis James Carlos Ahmed Yan Ali Li Abdul Ying Sergey Vladimir
 		
-		Uilliam_William Brian Briain_Brian Michel_Michael Kevin Ken_Kenneth Steven_Stephen Jim_James Pierre_Peter Don Andre_Andrew Gary Frank Jason Claude Jeff Donald Roger Denis Daniel Dan_Daniel Patrick Pat_Patrick Paddy_Patrick Wayne Doug Joe Jacques_John Terry Bruce Marc_Mark Greg_Gregory Gordon Gilles Raymond Guy Larry Charles Tim_Timothy Alain_Alan Ryan Marcel Fred Dennis_Denis Steve_Stephen Keith Robin Allan_Alan Randy Sean_John Brendan Noel Anthony Seamus Kilian Killian_Kilian Donal_Donald Alan Timothy Declan Philip Connor Conor_Connor Dermot Vincent Christopher Kieran Gerry Bernard Aidan_Aiden Francis_Francisco Eamon Barry Colm Derek Eugene
+		Uilliam Brian Briain_Brian Michel Kevin Ken Steven Jim Pierre Don Andre Gary Frank Jason Claude Jeff Donald Roger Denis Daniel Dan Patrick Pat Paddy Wayne Doug Joe Jacques Terry Bruce Marc Greg Gordon Gilles Raymond Guy Larry Charles Tim Alain Ryan Marcel Fred Dennis Steve Keith Robin Allan Randy Sean Brendan Noel Anthony Seamus Kilian Killian Donal Alan Timothy Declan Philip Connor Dermot Vincent Christopher Kieran Gerry Bernard Aidan Francis Eamon Barry Colm Derek Eugene
 	}
 	female_names = {
-		Adelaide Anne Anna_Anne Beatrice Catherine Elizabeth Elisabeth_Elizabeth Emma Maria Mary_Maria Bianca Penelope Sophia Emily Madison Rose
+		Adelaide  Beatrice Catherine Elizabeth Emma Maria Mary Bianca Penelope Sophia Emily Madison Rose
 		
-		Rois_Rose Robin Kathleen Patricia Eileen Marie_Maria Bridget_Brigit Helen Helene Teresa_Theresa Sarah Joan Geraldine Maureen Caroline Susan Michelle Bernadette Fiona Carmel Angela Karen Nora Sheila Claire Sinead Pauline Sharon Siobahn Lisa Breda Linda Sandra Josephine Maura_Maureen Louise Elaine Martina Frances Niamh Lorraine Laura Jennifer Rita Barbara Christina Valerie Noreen Carol Paula Yvonne Ellen
+		Rois Robin Kathleen Patricia Eileen Marie Bridget Helen Helene Teresa Sarah Joan Geraldine Maureen Caroline Susan Michelle Bernadette Fiona Carmel Angela Karen Nora Sheila Claire Sinead Pauline Sharon Siobahn Lisa Breda Linda Sandra Josephine Maura Louise Elaine Martina Frances Niamh Lorraine Laura Jennifer Rita Barbara Christina Valerie Noreen Carol Paula Yvonne Ellen Annie
 	}
 	dynasty_of_location_prefix = "dynnp_oa"
 
