@@ -1,373 +1,406 @@
 ﻿name_list_capri = {
 
 	cadet_dynasty_names = {
-		{ "dynnp_de" "dynn_Bohun" }
-		{ "dynnp_de" "dynn_Vere" }
-		{ "dynnp_de" "dynn_Gand" }
+		"dynn_Wang"
+		"dynn_Smith"
+		"dynn_Devi"
 		"dynn_Myall"
-		{ "dynnp_de" "dynn_Turberville" }
-		{ "dynnp_de" "dynn_Holland" }
+		"dynn_Ivanov"
+		{ "dynnp_of" "dynn_Holland" }
 		"dynn_Butler"
-		{ "dynnp_of" "dynn_Thornham" }
-		{ "dynnp_de" "dynn_Camville" }
-		"dynn_Breakspear"
-		{ "dynnp_of" "dynn_Itchington" }
+		"dynn_Kim"
+		"dynn_Ali"
+		"dynn_GarcI_a"
 		{ "dynnp_of" "dynn_Northall" }
 		{ "dynnp_de" "dynn_Montagu" }
-		{ "dynnp_de" "dynn_Umfraville" }
-		"dynn_FitzPeter"
+		{ "dynnp_da" "dynn_Silva" }
+		"dynn_Silva"
+		"dynn_Mohamed"
 		"dynn_Belles-mains"
 		{ "dynnp_of" "dynn_Warwick" }
-		"dynn_FitzAlan"
+		"dynn_Tesfaye"
 		{ "dynnp_de" "dynn_Beauchamp" }
-		{ "dynnp_of" "dynn_Ilchester" }
-		{ "dynnp_de" "dynn_Raleigh" }
+		"dynn_Nguyen"
+		{ "dynnp_of" "dynn_Raleigh" }
 		{ "dynnp_de" "dynn_Stratford" }
 		"dynn_Becket"
-		{ "dynnp_de" "dynn_la_Pole" }
+		"dynn_Beckett"
+		"dynn_Ilunga"
 		"dynn_Hayles"
 		{ "dynnp_of" "dynn_Norfolk" }
 		"dynn_Rose"
-		"dynn_Dodington"
+		"dynn_GonzA_lez"
 		"dynn_Stawell"
 		"dynn_Huntingdon"
 		"dynn_Lockhart"
-		"dynn_Wuffing"
+		"dynn_Deng"
 		"dynn_Henry"
 		"dynn_Hastings"
 		"dynn_Puttoc"
-		{ "dynnp_of" "dynn_Anglo-Saxony" }
+		"dynn_RodrI_guez"
 		{ "dynnp_of" "dynn_Northampton" }
-		"dynn_A_theling"
+		"dynn_Moyo"
 		"dynn_Moore"
-		"dynn_Fysche"
-		"dynn_Dall"
-		"dynn_Slee"
-		"dynn_Kiil"
-		"dynn_Mel"
-		"dynn_Holter"
-		"dynn_Randolph"
-		"dynn_Percy"
-		"dynn_Despencer"
-		"dynn_Bacon"
-		"dynn_Reresby"
-		"dynn_Cornwallis"
-		"dynn_Clifford"
-		"dynn_Carew"
-		"dynn_Maddock"
-		"dynn_Fortescue"
-		{ "dynnp_de" "dynn_Ros" }
+		"dynn_Hansen"
+		
+		"dynn_Yu"
+		"dynn_Martinez"
+		"dynn_Johnson"
+		"dynn_Lee"
+		"dynn_Zhao"
+		"dynn_Kumar"
+		"dynn_Xu"
+		"dynn_Sun"
+		"dynn_Ahmed"
+		"dynn_Wei"
+		"dynn_Das"
+		"dynn_Song"
+		"dynn_Islam"
+		"dynn_Mohammad"
+		"dynn_Jones"
+		"dynn_Cao"
 		"dynn_Howard"
-		"dynn_Maudit"
-		"dynn_Berkeley"
-		"dynn_Barton"
-		"dynn_Colvile"
+		"dynn_Miller"
+		"dynn_Innsbruck"
+		"dynn_Hassan"
+		"dynn_Hussain"
 		"dynn_Grey"
-		"dynn_Darcy"
-		{ "dynnp_de" "dynn_Garlande" }
+		"dynn_Yadav"
+		{ "dynnp_of" "dynn_Capri" }
+		"dynn_Lopez"
+		"dynn_Davis"
 		"dynn_Perry"
-		"dynn_Bethell"
-		"dynn_Perry"
-		"dynn_Borthwick"
-		{ "dynnp_de" "dynn_London" }
-		{ "dynnp_of" "dynn_Hereford" }
-		{ "dynnp_of" "dynn_Gloucester" }
-		{ "dynnp_of" "dynn_Oxford" }
-		{ "dynnp_of" "dynn_Salisbury" }
-		{ "dynnp_of" "dynn_Surrey" }
-		{ "dynnp_of" "dynn_Sussex" }
-		{ "dynnp_of" "dynn_Hampshire" }
-		{ "dynnp_of" "dynn_Dorset" }
-		{ "dynnp_of" "dynn_Somerset" }
-		{ "dynnp_of" "dynn_Devon" }
-		{ "dynnp_of" "dynn_Exeter" }
-		{ "dynnp_of" "dynn_Cumberland" }
-		{ "dynnp_of" "dynn_York" }
-		{ "dynnp_of" "dynn_Lancaster" }
-		{ "dynnp_of" "dynn_Chester" }
-		{ "dynnp_of" "dynn_Lincoln" }
-		{ "dynnp_of" "dynn_Leicester" }
-		{ "dynnp_of" "dynn_Derby" }
-		{ "dynnp_of" "dynn_Shrewsbury" }
-		{ "dynnp_of" "dynn_Northampton" }
-		{ "dynnp_of" "dynn_Bedford" }
-		{ "dynnp_of" "dynn_Norfolk" }
-		{ "dynnp_of" "dynn_Suffolk" }
-		"dynn_Crawford"
-		"dynn_Tynedale"
-		"dynn_Pudsey"
+		"dynn_Brown"
+		{ "dynnp_of" "dynn_London" }
+		{ "dynnp_of" "dynn_Chinju" }
+		{ "dynnp_of" "dynn_Aromatum" }
+		{ "dynnp_of" "dynn_Capridge" }
+		{ "dynnp_of" "dynn_Reverence" }
+		{ "dynnp_of" "dynn_Innsbruck" }
+		{ "dynnp_of" "dynn_Daylam" }
+		{ "dynnp_of" "dynn_Midsommar" }
+		{ "dynnp_of" "dynn_Eridanos" }
+		{ "dynnp_of" "dynn_Prosperity" }
+		"dynn_Chester"
+		"dynn_Lincoln"
+		{ "dynnp_of" "dynn_Paks" }
+		{ "dynnp_of" "dynn_the_Tuskegees" }
+		{ "dynnp_da" "dynn_Vinci" }
+		"dynn_Baker"
+		"dynn_Anderson"
+		"dynn_Gomez"
 		"dynn_Marshal"
 		"dynn_Rowe"
-		{ "dynnp_de" "dynn_Criel" }
+		"dynn_Torres"
 		"dynn_Ciesla"
-		"dynn_Ross"
-		"dynn_Wuffing"
-		"dynn_Beorming"
-		"dynn_Eorling"
-		"dynn_A_bbing"
-		"dynn_A_lling"
-		"dynn_Wintaling"
-		{ "dynnp_de" "dynn_Kald" }
-		{ "dynnp_de" "dynn_la_Haya" }
-		{ "dynnp_de" "dynn_Lindsay" }
-		{ "dynnp_de" "dynn_Loudoun" }
-		{ "dynnp_de" "dynn_Ramsay" }
-		{ "dynnp_of" "dynn_Angus" }
-		{ "dynnp_of" "dynn_Carrick" }
-		{ "dynnp_of" "dynn_Galloway" }
-		{ "dynnp_of" "dynn_Galloway" }
-		{ "dynnp_of" "dynn_Scotland" }
-		{ "dynnp_of" "dynn_Strathearn" }
-		{ "dynnp_of" "dynn_Tullibardine" }
-		"dynn_Abernethy"
-		"dynn_Arbuthnot"
-		"dynn_Archil"
+		"dynn_Wilson"
+		"dynn_Gutierrez"
+		"dynn_Martin"
+		"dynn_Reyes"
+		"dynn_Tran"
+		"dynn_Diaz"
+		"dynn_Taylor"
+		"dynn_Wong"
+		"dynn_Chen"
+		"dynn_Ramsay"
+		{ "dynnp_of" "dynn_Mutch" }
+		{ "dynnp_of" "dynn_Daedalus" }
+		{ "dynnp_of" "dynn_Olympus" }
+		"dynn_Abernathy"
+		"dynn_Mendoza"
+		"dynn_Chavez"
 		"dynn_Armstrong"
-		"dynn_Ballantyne"
-		"dynn_Bannock"
+		"dynn_Cruz"
+		"dynn_Thompson"
 		"dynn_Barclay"
-		"dynn_Blackadder"
-		"dynn_Borthwick"
-		"dynn_Bradnigh"
-		"dynn_Branain"
+		"dynn_Morales"
+		"dynn_Jackson"
+		"dynn_Ruiz"
+		"dynn_White"
 		"dynn_Bruce"
-		"dynn_Buchan"
+		"dynn_Ramos"
 		"dynn_Cameron"
 		"dynn_Campbell"
-		"dynn_Camshron"
-		"dynn_Carrun"
-		"dynn_Cockburn"
-		"dynn_Cosmungho"
-		"dynn_Craigies"
+		"dynn_Young"
+		"dynn_Rivera"
+		"dynn_Clark"
+		"dynn_Jimenez"
+		"dynn_Harris"
 		"dynn_Dean"
 		"dynn_Douglas"
-		"dynn_Errol"
+		"dynn_Vasquez"
 		"dynn_Forbes"
-		"dynn_Fothriff"
+		"dynn_Lewis"
 		"dynn_Fraser"
-		"dynn_Friseal"
-		"dynn_Gillespie"
-		"dynn_Glenklochar"
+		"dynn_Ortiz"
+		"dynn_Moreno"
+		"dynn_Nelson"
 		"dynn_Gordon"
 		"dynn_Graham"
 		"dynn_Grant"
 		"dynn_Johnston"
-		"dynn_Kennoway"
+		"dynn_Aguilar"
 		"dynn_Kyle"
-		"dynn_Lochore"
+		"dynn_Romero"
 		"dynn_Lowden"
-		"dynn_Menteith"
+		"dynn_Walker"
 		"dynn_Murray"
-		"dynn_Olifard"
+		"dynn_Castro"
 		"dynn_Rannaire"
 		"dynn_Saint-Clair"
 		"dynn_Scoine"
-		"dynn_Strathearn"
+		"dynn_Castillo"
 		"dynn_Turnbull"
 		"dynn_Wallace"
+		"dynn_Allen"
+		"dynn_Robinson"
+		"dynn_Chang"
+		"dynn_Herrera"
+		"dynn_Scott"
+		"dynn_Medina"
+		"dynn_King"
+		"dynn_Hall"
+		"dynn_Gupta"
+		"dynn_Chan"
+		"dynn_Singh"
+		"dynn_Wright"
+		"dynn_Sandoval"
+		"dynn_Adams"
+		"dynn_Vargas"
+		"dynn_Hill"
+		"dynn_Green"
+		"dynn_Munoz"
+		"dynn_Guzman"
+		"dynn_Roberts"
+		"dynn_Liu"
+		"dynn_Fernandez"
+		"dynn_Contreras"
+		"dynn_Estrada"
+		"dynn_Mitchell"
+		"dynn_Lin"
+		"dynn_Park"
+		"dynn_Salazar"
+		"dynn_Peterson"
+		"dynn_Louis"
+		"dynn_Phillpis"
+		"dynn_Navarro"
+		"dynn_Carter"
+		"dynn_Wu"
+		"dynn_Li"
+		"dynn_Pham"
+		"dynn_Parker"
+		"dynn_Padilla"
+		"dynn_Murphy"
+		"dynn_Stewart"
+		"dynn_Stuart"
+		"dynn_Huang"
 	}
 
 	dynasty_names = {
-		{ "dynnp_de" "dynn_Bohun" }
-		{ "dynnp_de" "dynn_Vere" }
-		{ "dynnp_de" "dynn_Gand" }
+		"dynn_Wang"
+		"dynn_Smith"
+		"dynn_Devi"
 		"dynn_Myall"
-		{ "dynnp_de" "dynn_Turberville" }
-		{ "dynnp_de" "dynn_Holland" }
+		"dynn_Ivanov"
+		{ "dynnp_of" "dynn_Holland" }
 		"dynn_Butler"
-		{ "dynnp_of" "dynn_Thornham" }
-		{ "dynnp_de" "dynn_Camville" }
-		"dynn_Breakspear"
-		{ "dynnp_of" "dynn_Itchington" }
+		"dynn_Kim"
+		"dynn_Ali"
+		"dynn_GarcI_a"
 		{ "dynnp_of" "dynn_Northall" }
 		{ "dynnp_de" "dynn_Montagu" }
-		{ "dynnp_de" "dynn_Umfraville" }
-		"dynn_FitzPeter"
+		{ "dynnp_da" "dynn_Silva" }
+		"dynn_Silva"
+		"dynn_Mohamed"
 		"dynn_Belles-mains"
 		{ "dynnp_of" "dynn_Warwick" }
-		"dynn_FitzAlan"
+		"dynn_Tesfaye"
 		{ "dynnp_de" "dynn_Beauchamp" }
-		{ "dynnp_of" "dynn_Ilchester" }
-		{ "dynnp_de" "dynn_Raleigh" }
+		"dynn_Nguyen"
+		{ "dynnp_of" "dynn_Raleigh" }
 		{ "dynnp_de" "dynn_Stratford" }
 		"dynn_Becket"
-		{ "dynnp_de" "dynn_la_Pole" }
+		"dynn_Beckett"
+		"dynn_Ilunga"
 		"dynn_Hayles"
 		{ "dynnp_of" "dynn_Norfolk" }
 		"dynn_Rose"
-		"dynn_Dodington"
+		"dynn_GonzA_lez"
 		"dynn_Stawell"
 		"dynn_Huntingdon"
 		"dynn_Lockhart"
-		"dynn_Wuffing"
+		"dynn_Deng"
 		"dynn_Henry"
 		"dynn_Hastings"
 		"dynn_Puttoc"
-		{ "dynnp_of" "dynn_Anglo-Saxony" }
+		"dynn_RodrI_guez"
 		{ "dynnp_of" "dynn_Northampton" }
-		"dynn_A_theling"
+		"dynn_Moyo"
 		"dynn_Moore"
-		"dynn_Fysche"
-		"dynn_Dall"
-		"dynn_Slee"
-		"dynn_Kiil"
-		"dynn_Mel"
-		"dynn_Holter"
-		"dynn_Randolph"
-		"dynn_Percy"
-		"dynn_Despencer"
-		"dynn_Bacon"
-		"dynn_Reresby"
-		"dynn_Cornwallis"
-		"dynn_Clifford"
-		"dynn_Carew"
-		"dynn_Maddock"
-		"dynn_Fortescue"
-		{ "dynnp_de" "dynn_Ros" }
+		"dynn_Hansen"
+		
+		"dynn_Yu"
+		"dynn_Martinez"
+		"dynn_Johnson"
+		"dynn_Lee"
+		"dynn_Zhao"
+		"dynn_Kumar"
+		"dynn_Xu"
+		"dynn_Sun"
+		"dynn_Ahmed"
+		"dynn_Wei"
+		"dynn_Das"
+		"dynn_Song"
+		"dynn_Islam"
+		"dynn_Mohammad"
+		"dynn_Jones"
+		"dynn_Cao"
 		"dynn_Howard"
-		"dynn_Maudit"
-		"dynn_Berkeley"
-		"dynn_Barton"
-		"dynn_Colvile"
+		"dynn_Miller"
+		"dynn_Innsbruck"
+		"dynn_Hassan"
+		"dynn_Hussain"
 		"dynn_Grey"
-		"dynn_Darcy"
-		{ "dynnp_de" "dynn_Garlande" }
+		"dynn_Yadav"
+		{ "dynnp_of" "dynn_Capri" }
+		"dynn_Lopez"
+		"dynn_Davis"
 		"dynn_Perry"
-		"dynn_Bethell"
-		"dynn_Perry"
-		"dynn_Borthwick"
-		{ "dynnp_de" "dynn_London" }
-		{ "dynnp_of" "dynn_Hereford" }
-		{ "dynnp_of" "dynn_Gloucester" }
-		{ "dynnp_of" "dynn_Oxford" }
-		{ "dynnp_of" "dynn_Salisbury" }
-		{ "dynnp_of" "dynn_Surrey" }
-		{ "dynnp_of" "dynn_Sussex" }
-		{ "dynnp_of" "dynn_Hampshire" }
-		{ "dynnp_of" "dynn_Dorset" }
-		{ "dynnp_of" "dynn_Somerset" }
-		{ "dynnp_of" "dynn_Devon" }
-		{ "dynnp_of" "dynn_Exeter" }
-		{ "dynnp_of" "dynn_Cumberland" }
-		{ "dynnp_of" "dynn_York" }
-		{ "dynnp_of" "dynn_Lancaster" }
-		{ "dynnp_of" "dynn_Chester" }
-		{ "dynnp_of" "dynn_Lincoln" }
-		{ "dynnp_of" "dynn_Leicester" }
-		{ "dynnp_of" "dynn_Derby" }
-		{ "dynnp_of" "dynn_Shrewsbury" }
-		{ "dynnp_of" "dynn_Northampton" }
-		{ "dynnp_of" "dynn_Bedford" }
-		{ "dynnp_of" "dynn_Norfolk" }
-		{ "dynnp_of" "dynn_Suffolk" }
-		"dynn_Crawford"
-		"dynn_Tynedale"
-		"dynn_Pudsey"
+		"dynn_Brown"
+		{ "dynnp_of" "dynn_London" }
+		{ "dynnp_of" "dynn_Chinju" }
+		{ "dynnp_of" "dynn_Aromatum" }
+		{ "dynnp_of" "dynn_Capridge" }
+		{ "dynnp_of" "dynn_Reverence" }
+		{ "dynnp_of" "dynn_Innsbruck" }
+		{ "dynnp_of" "dynn_Daylam" }
+		{ "dynnp_of" "dynn_Midsommar" }
+		{ "dynnp_of" "dynn_Eridanos" }
+		{ "dynnp_of" "dynn_Prosperity" }
+		"dynn_Chester"
+		"dynn_Lincoln"
+		{ "dynnp_of" "dynn_Paks" }
+		{ "dynnp_of" "dynn_the_Tuskegees" }
+		{ "dynnp_da" "dynn_Vinci" }
+		"dynn_Baker"
+		"dynn_Anderson"
+		"dynn_Gomez"
 		"dynn_Marshal"
 		"dynn_Rowe"
-		{ "dynnp_de" "dynn_Criel" }
+		"dynn_Torres"
 		"dynn_Ciesla"
-		"dynn_Ross"
-		"dynn_Wuffing"
-		"dynn_Beorming"
-		"dynn_Eorling"
-		"dynn_A_bbing"
-		"dynn_A_lling"
-		"dynn_Wintaling"
-		{ "dynnp_de" "dynn_Kald" }
-		{ "dynnp_de" "dynn_la_Haya" }
-		{ "dynnp_de" "dynn_Lindsay" }
-		{ "dynnp_de" "dynn_Loudoun" }
-		{ "dynnp_de" "dynn_Ramsay" }
-		{ "dynnp_of" "dynn_Angus" }
-		{ "dynnp_of" "dynn_Carrick" }
-		{ "dynnp_of" "dynn_Galloway" }
-		{ "dynnp_of" "dynn_Galloway" }
-		{ "dynnp_of" "dynn_Scotland" }
-		{ "dynnp_of" "dynn_Strathearn" }
-		{ "dynnp_of" "dynn_Tullibardine" }
-		"dynn_Abernethy"
-		"dynn_Arbuthnot"
-		"dynn_Archil"
+		"dynn_Wilson"
+		"dynn_Gutierrez"
+		"dynn_Martin"
+		"dynn_Reyes"
+		"dynn_Tran"
+		"dynn_Diaz"
+		"dynn_Taylor"
+		"dynn_Wong"
+		"dynn_Chen"
+		"dynn_Ramsay"
+		{ "dynnp_of" "dynn_Mutch" }
+		{ "dynnp_of" "dynn_Daedalus" }
+		{ "dynnp_of" "dynn_Olympus" }
+		"dynn_Abernathy"
+		"dynn_Mendoza"
+		"dynn_Chavez"
 		"dynn_Armstrong"
-		"dynn_Ballantyne"
-		"dynn_Bannock"
+		"dynn_Cruz"
+		"dynn_Thompson"
 		"dynn_Barclay"
-		"dynn_Blackadder"
-		"dynn_Borthwick"
-		"dynn_Bradnigh"
-		"dynn_Branain"
+		"dynn_Morales"
+		"dynn_Jackson"
+		"dynn_Ruiz"
+		"dynn_White"
 		"dynn_Bruce"
-		"dynn_Buchan"
+		"dynn_Ramos"
 		"dynn_Cameron"
 		"dynn_Campbell"
-		"dynn_Camshron"
-		"dynn_Carrun"
-		"dynn_Cockburn"
-		"dynn_Cosmungho"
-		"dynn_Craigies"
+		"dynn_Young"
+		"dynn_Rivera"
+		"dynn_Clark"
+		"dynn_Jimenez"
+		"dynn_Harris"
 		"dynn_Dean"
 		"dynn_Douglas"
-		"dynn_Errol"
+		"dynn_Vasquez"
 		"dynn_Forbes"
-		"dynn_Fothriff"
+		"dynn_Lewis"
 		"dynn_Fraser"
-		"dynn_Friseal"
-		"dynn_Gillespie"
-		"dynn_Glenklochar"
+		"dynn_Ortiz"
+		"dynn_Moreno"
+		"dynn_Nelson"
 		"dynn_Gordon"
 		"dynn_Graham"
 		"dynn_Grant"
 		"dynn_Johnston"
-		"dynn_Kennoway"
+		"dynn_Aguilar"
 		"dynn_Kyle"
-		"dynn_Lochore"
+		"dynn_Romero"
 		"dynn_Lowden"
-		"dynn_Menteith"
+		"dynn_Walker"
 		"dynn_Murray"
-		"dynn_Olifard"
+		"dynn_Castro"
 		"dynn_Rannaire"
 		"dynn_Saint-Clair"
 		"dynn_Scoine"
-		"dynn_Strathearn"
+		"dynn_Castillo"
 		"dynn_Turnbull"
 		"dynn_Wallace"
+		"dynn_Allen"
+		"dynn_Robinson"
+		"dynn_Chang"
+		"dynn_Herrera"
+		"dynn_Scott"
+		"dynn_Medina"
+		"dynn_King"
+		"dynn_Hall"
+		"dynn_Gupta"
+		"dynn_Chan"
+		"dynn_Singh"
+		"dynn_Wright"
+		"dynn_Sandoval"
+		"dynn_Adams"
+		"dynn_Vargas"
+		"dynn_Hill"
+		"dynn_Green"
+		"dynn_Munoz"
+		"dynn_Guzman"
+		"dynn_Roberts"
+		"dynn_Liu"
+		"dynn_Fernandez"
+		"dynn_Contreras"
+		"dynn_Estrada"
+		"dynn_Mitchell"
+		"dynn_Lin"
+		"dynn_Park"
+		"dynn_Salazar"
+		"dynn_Peterson"
+		"dynn_Louis"
+		"dynn_Phillpis"
+		"dynn_Navarro"
+		"dynn_Carter"
+		"dynn_Wu"
+		"dynn_Li"
+		"dynn_Pham"
+		"dynn_Parker"
+		"dynn_Padilla"
+		"dynn_Murphy"
+		"dynn_Stewart"
+		"dynn_Stuart"
+		"dynn_Huang"
 	}
 	
-	# Does not exist in 1066 - is the result of cultural amalgamation between Saxon and Norman through events
 	male_names = {
-		William John Adam Geoffrey Henry Hugh Nicholas Peter Ralph Richard Robert Roger Simon Thomas Walter Alan Albert Alexander Alfred Andrew Anselm Arnold Arthur Aubrey Baldrick Christopher David Edmund Edward Eric Eustace Fulk George Gerald Gilbert Godfrey Gregory Guy Harold Humphrey Jocelyn Jordan Laurence Lionel Mark Martin Matthew Maurice Michael Paul Philip Randolph Reginald Roderick Samuel Stephen Theobald Waleran Blethin Duncan Douglas Fergus Findlay Griffith Kenneth Patrick Teague Howell Meredith Owen Tristan Cecil Sweeney Cedric Merlin Sebastian Zachary Abo Adalbero Adalbert Adalbrand Adaldag Adalgar Adalgod Adolf Aelle Albrecht Alebrand
-		Altfrid Ansgar Arnd Arnold Asig Balduin Balthasar Banzleib Beneke Benno Bernd
-		Bernhard Bertold Bertram Boddic Brun Bruno Burchard Cissa Claus Cobbo Cord
-		Cyprian Dago Dedo Dethard Detleff Detmar Diederik Donar Eggerd Egilmar Ekbert Engelbert
-		Engelhard Erik Erp Esiko Everd Ewald Floribert Freawine Frederik Gehrke Gelder Gero Gerold Gevert
-		Ghert Giselher Giselmar Gosschalk Goswin Gunzelin GO_dke GU_nther Hans Harthgate Hartwig Heideke
-		Hengest Henneke Herberd Hermann Hinrik Hoger Hulderic Humfried Immed Isidor Jacob Jaspar Jochim
-		Johann Juries Kersten KO_pke Laurentz Lembert Leuderic Liawizo Liemar Liudger Luder-Udo
-		Luder Ludolf Ludwig Magnus Marbold Marquard Mathias Meinwerk Merten Michael
-		Norbert Odo Ordulf Peter Philipp Radke Reginbern Reinbern Reineke Reinmar Rudigar
-		Rudolf Sigbert Sigfrid Sigward Simon Steffen Thankmar Theoderic Theodoric
-		Theodwin Thimo Thomas Tobe Tymmeke Udo Unwan Viric Volkwin Volrad Walbert Waldemar Waldered Waltard
-		Warin Warinechin Wecta Wenzel Werneke Weybrecht Wichbert Wichmann Wicho Widukind Wigebert Wilbrand
-		Willichin Withgils Witikind Witta Wlencing Wolter Wulff Adam Alpin Alan Alastair Alexander Andrew
-		Angus Archibald Arthur Arran Aulay Beathan Brian Brice Cailean Calum Carbrey Colban
-		Colin Conall Conan Constantine David Dermid Donald Douglas Duff Dugald
-		Duncan Edgar Edward Edwin Eric Evander Ewan Farquhar Fergus Fingal Findlay Frang
-		Gavin Gilbert Gilbride Gilchrist Gillespie Gilpatrick Gilroy Giric Glenn Godfrey Gregor
-		Hamish Hector Henry Hugh Iain Indulf James John Kenneth Kentigern Lachlan Laurence Lennon
-		Lulach Macbeth Magnus Malcolm Maldoven Maldred Malise Malmure Maoilios Marcas Malsnectan
-		Matad Matthew Michael Morgan Muir Mungo Murdoch Murray Neil Ninian Oscar
-		Patrick Paul Peter Philip Radulf Ranald Richard Robert Roderick Ronald Rory Ross Roy
-		Shaw Sholto Simon Somerled Stephan Sweeny Taig Talore Thomas Torquil Uhtred Uisdean Walan
-		Waldeve Walter William
+		William Will_William John Jack_John Ian_John Peter Richard Rick_Richard Robert Rob_Robert Bob_Robert Thomas Tom_Thomas Mohammed Mohamed_Mohammed Adam Noah Hugh Nicholas Nick_Nicholas Liam Alexander Alex_Alexander Andrew Andy_Andrew Chris_Christopher David Edward Elijah Eli_Elijah Eric Benjamin George Ethan Lucas Ewan Mark Martin Matthew Louis Lewis_Louis James Carlos Ahmed Yan Ali Li Abdul Ying Sergey Vladimir
+
+		Johann_John Pete_Peter Ralph Roger Simon Walter Walt_Walter Alan Xander_Alexander Anselm Arnold Arthur Aubrey Mateo Christopher Dave_David Sebastian Ed_Edward Eddy_Edward Ben_Benjamin Oliver Gregory Greg_Gregory Guy Harold Harry_Harold Jocelyn Jordan Laurence Lionel Matt_Matthew Daniel Dan_Daniel Michael Mike_Michael Paul Philip Phil_Philip Luke_Lucas Ezekiel Samuel Sam_Samuel Stephen Steve_Stephen Steven_Stephen Tristan Cedric Zachary Zach_Zachary Arnold Erik Eric_Erik Frederick Fred_Frederick Jacob Jake_Jacob Ludwig Magnus Mathias Norbert Angus Arran Aulay Brian Calum Colin Conan Constantine Donald Evan Gavin Glenn Gregor_Gregory Hamish Hector  Jim_James Lennon Morgan Murray Neil Oscar Ronald Ron_Ronald Rory Ross Roy Aiden Ezra Leo_Lionel Adrian Elias Dylan Logan Isaac Nathan Aaron Isaiah Mason Joseph Joe_Joseph Damian Gael Josiah Theodore Teddy_Theodore Gabriel Gabe_Gabriel Jackson Nushi  Muhammad_Mohammed Wei Juan_John Jean_John Luis_Louis Charles_Carlos Karl_Carlos Antonio_Anthony Francisco Hong Min Ibrahim Jorge_George 
 	}
 	female_names = {
-		Adela Adelaide Alice Amice Anne Aveline Beatrice Blanche Catherine Cecilia Constance Edith Ela Eleanor Elizabeth Emma Hawise Isabel
-		Isabella Joan Joanna Juliana Mahaut Margaret Mary Matilda Maud Philippa Sybilla Addila Adelheid Alof Agnes Anna Athela Beatrix Bertha Bertrada Bia Bisina Bithild
-		Brigida Christina Diedke Eilika Elisabeth Enda Frederuna Geilana Gerberga Gertrud Gisela
-		Glismod Hadwig Hasala Heilwig Helene Hildegard Hrothwina Ida Imma Irmgard Irminburg
-		Jutta Katharina Kunigunde Luitgard Margarete Mathilde Mechthild Oda
-		Othelindis Radegund Reginlint Richardis Rodelinda Sophia Suanhilde Theodrada Thiedburga Wienke Wiltrud Wulfhild
+		Adelaide Anne Anna_Anne Beatrice Catherine Elizabeth Elisabeth_Elizabeth Emma Maria Mary_Maria Bianca Penelope Sophia Emily Madison Rose
+		
+		Adele_Adelaide Alice Amelia Amy_Amelia Anne Anna_Anne Ann_Anne Ana_Anne Aveline Evelyn_Aveline  Beatrix_Beatrice Cat_Catherine Eleanor Ellie_Eleanor Elise_Elizabeth Lily_Elizabeth Lizbeth_Elizabeth Lilibet_Elizabeth Ivy Joanna Joan_Joanna Jean_Joanna Juliana Julia Margaret Margarete_Margaret Mathilda Matilda_Mathilda Philippa  Bia_Bianca Richardis Sophie_Sophia Sofie_Sophia Olivia Camila Mia Luna Charlotte Ava  Emilia_Emily Aria Victoria Abigail Abby_Abigail Penny_Penelope Scarlet Maya Zoe Violet Delilah Leah  Maddie_Madison Maddy_Maddison Aurora  Rosie_Rose Grace Freya Elsie Willow Florence Flora_Florence Christina Chris_Christina Chrissy_Christina 
 	}
 	dynasty_of_location_prefix = "dynnp_of"
 
@@ -387,7 +420,7 @@
 	
 
 	mercenary_names = {
-		{ name = "mercenary_company_white_company" coat_of_arms = "mc_white_company" }
-		{ name = "mercenary_company_hawkwoods_band" }
+		{ name = "mercenary_company_straitkeepers" }
+		{ name = "mercenary_company_innsbruck_band" }
 	}
 }
