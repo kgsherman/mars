@@ -180,7 +180,7 @@
 		"dynn_Salazar"
 		"dynn_Peterson"
 		"dynn_Louis"
-		"dynn_Phillpis"
+		"dynn_Phillips"
 		"dynn_Navarro"
 		"dynn_Carter"
 		"dynn_Wu"
@@ -374,7 +374,7 @@
 		"dynn_Salazar"
 		"dynn_Peterson"
 		"dynn_Louis"
-		"dynn_Phillpis"
+		"dynn_Phillips"
 		"dynn_Navarro"
 		"dynn_Carter"
 		"dynn_Wu"
@@ -389,14 +389,14 @@
 	}
 	
 	male_names = {
-		William Will John Jack Ian Peter Richard Rick Robert Rob Bob Thomas Tom Mohamed Adam Noah Hugh Nicholas Nick Liam Alexander Alex Andrew Andy Chris David Edward Elijah Eli Eric Benjamin George Ethan Lucas Ewan Mark Martin Matthew Louis Lewis James Carlos Ahmed Yan Ali Li Abdul Ying Sergey Vladimir
+		William Will John Jack Ian Peter Richard Rick Robert Rob Bob Thomas Tom Mohamed Adam Noah Hugh Nicholas Nick Liam Alexander Alex Andrew Andy Chris David Edward Elijah Eli Eric Benjamin George Ethan Lucas Ewan Mark Martin Matthew Louis Lewis James Carlos Ahmed Yan Ali Li Abdul Ying Sergey Vladimir Lee
 
-		Johann Pete Ralph Roger Simon Walter Walt Alan Xander Anselm Arnold Arthur Aubrey Mateo Christopher Dave Sebastian Ed Eddy Ben Oliver Gregory Greg Guy Harold Harry Jocelyn Jordan Laurence Lionel Matt Daniel Dan Michael Mike Paul Philip Phil Luke Ezekiel Samuel Sam Stephen Steve Steven Tristan Cedric Zachary Zach Arnold Eric Frederick Fred Jacob Jake Ludwig Magnus Mathias Norbert Angus Arran Aulay Brian Calum Colin Conan Constantine Donald Evan Gavin Glenn Hector  Jim Lennon Morgan Murray Neil Oscar Ronald Ron Rory Ross Roy Aiden Ezra Leon Adrian Elias Dylan Logan Isaac Nathan Aaron Isaiah Mason Joseph Joe Damian Gael Josiah Theodore Teddy Gabriel Gabe Jackson Nushi Wei Juan Jean Luis Charles Karl Antonio Francisco Hong Min Ibrahim Jorge 
+		Johann Pete Ralph Roger Simon Walter Walt Alan Xander Anselm Arnold Arthur Aubrey Mateo Christopher Dave Sebastian Ed Eddy Ben Oliver Gregory Greg Guy Harold Harry Jocelyn Jordan Laurence Lionel Matt Daniel Dan Michael Mike Paul Philip Phil Luke Ezekiel Samuel Sam Stephen Steve Steven Tristan Cedric Zachary Zach Arnold Eric Frederick Fred Jacob Jake Ludwig Magnus Mathias Norbert Angus Arran Aulay Brian Calum Colin Conan Constantine Donald Evan Gavin Glenn Hector  Jim Lennon Morgan Murray Neil Oscar Ronald Ron Rory Ross Roy Aiden Ezra Leon Adrian Elias Dylan Logan Isaac Nathan Aaron Isaiah Mason Joseph Joe Damian Gael Josiah Theodore Teddy Gabriel Gabe Jackson Nushi Wei Juan Jean Luis Charles Karl Antonio Francisco Hong Ibrahim Jorge 
 	}
 	female_names = {
 		Adelaide Anne Beatrice Catherine Elizabeth  Emma Maria Mary Bianca Penelope Emily Madison Rose
 		
-		Adele Alice Amelia Amy Anne Aveline Evelyn Beatrix Eleanor Ellie Elise Lily Lizbeth Lilibet Ivy Joanna Joan Jean Juliana Julia Margaret Margarete Mathilda Matilda Philippa Bia Richardis Sophie Olivia Camila Mia Luna Charlotte Ava Emilia Aria Victoria Abigail Abby Penny Scarlet Maya Zoe Violet Delilah Leah Maddie Maddy Aurora  Rosie Grace Freya Elsie Willow Florence Flora Christina Chris Chrissy Cat Kat Cath Cassidy Cass Veronica 
+		Adele Alice Amelia Amy Anne Aveline Evelyn Beatrix Eleanor Ellie Elise Lily Lizbeth Lilibet Ivy Joanna Joan Jean Juliana Julia Margaret Margarete Mathilda Matilda Philippa Bia Richardis Sophie Olivia Camila Mia Luna Charlotte Ava Emilia Aria Victoria Abigail Abby Penny Scarlet Maya Zoe Violet Delilah Leah Maddie Maddy Aurora  Rosie Grace Freya Elsie Willow Florence Flora Christina Chris Chrissy Cat Kat Cath Cassidy Cass Veronica Hanna
 	}
 	dynasty_of_location_prefix = "dynnp_of"
 

@@ -181,7 +181,7 @@
 		"dynn_Salazar"
 		"dynn_Peterson"
 		"dynn_Louis"
-		"dynn_Phillpis"
+		"dynn_Phillips"
 		"dynn_Navarro"
 		"dynn_Carter"
 		"dynn_Wu"
@@ -404,7 +404,7 @@
 		"dynn_Salazar"
 		"dynn_Peterson"
 		"dynn_Louis"
-		"dynn_Phillpis"
+		"dynn_Phillips"
 		"dynn_Navarro"
 		"dynn_Carter"
 		"dynn_Wu"
@@ -449,7 +449,7 @@
 	male_names = {
 		William Will John Jack Peter Richard Rick Robert Rob Thomas Mohammed Adam Noah Hugh Nicholas Nick Liam Alexander Alex Andrew Andy Chris David Edward Elijah Eli Eric Benjamin George Ethan Lucas Ewan Mark Martin Matthew Louis Lewis James Carlos Ahmed Yan Ali Li Abdul Ying Sergey Vladimir
 		
-		Uilliam Brian Briain_Brian Michel Kevin Ken Steven Jim Pierre Don Andre Gary Frank Jason Claude Jeff Donald Roger Denis Daniel Dan Patrick Pat Paddy Wayne Doug Joe Jacques Terry Bruce Marc Greg Gordon Gilles Raymond Guy Larry Charles Tim Alain Ryan Marcel Fred Dennis Steve Keith Robin Allan Randy Sean Brendan Noel Anthony Seamus Kilian Killian Donal Alan Timothy Declan Philip Connor Dermot Vincent Christopher Kieran Gerry Bernard Aidan Francis Eamon Barry Colm Derek Eugene
+		Uilliam Brian BriainBrian Michel Kevin Ken Steven Jim Pierre Don Andre Gary Frank Jason Claude Jeff Donald Roger Denis Daniel Dan Patrick Pat Paddy Wayne Doug Joe Jacques Terry Bruce Marc Greg Gordon Gilles Raymond Guy Larry Charles Tim Alain Ryan Marcel Fred Dennis Steve Keith Robin Allan Randy Sean Brendan Noel Anthony Seamus Kilian Killian Donal Alan Timothy Declan Philip Connor Dermot Vincent Christopher Kieran Gerry Bernard Aidan Francis Eamon Barry Colm Derek Eugene
 	}
 	female_names = {
 		Adelaide  Beatrice Catherine Elizabeth Emma Maria Mary Bianca Penelope Sophia Emily Madison Rose

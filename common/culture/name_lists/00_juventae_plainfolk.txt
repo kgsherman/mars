@@ -6,13 +6,10 @@
 		"dynn_Devi"
 		"dynn_Myall"
 		"dynn_Ivanov"
-		{ "dynnp_of" "dynn_Holland" }
 		"dynn_Butler"
 		"dynn_Kim"
 		"dynn_Ali"
 		"dynn_GarcI_a"
-		{ "dynnp_of" "dynn_Northall" }
-		{ "dynnp_de" "dynn_Montagu" }
 		{ "dynnp_da" "dynn_Silva" }
 		"dynn_Silva"
 		"dynn_Mohamed"
@@ -38,7 +35,6 @@
 		"dynn_Hastings"
 		"dynn_Puttoc"
 		"dynn_RodrI_guez"
-		{ "dynnp_of" "dynn_Northampton" }
 		"dynn_Moyo"
 		"dynn_Moore"
 		"dynn_Hansen"
@@ -71,21 +67,8 @@
 		"dynn_Bethell"
 		"dynn_Perry"
 		"dynn_Flores"
-		{ "dynnp_of" "dynn_London" }
-		{ "dynnp_of" "dynn_Hereford" }
-		{ "dynnp_of" "dynn_Gloucester" }
-		{ "dynnp_of" "dynn_Oxford" }
-		{ "dynnp_of" "dynn_Salisbury" }
-		{ "dynnp_of" "dynn_Hampshire" }
-		{ "dynnp_of" "dynn_Dorset" }
-		{ "dynnp_of" "dynn_Somerset" }
-		{ "dynnp_of" "dynn_York" }
-		{ "dynnp_of" "dynn_Lancaster" }
 		"dynn_Chester"
 		"dynn_Lincoln"
-		{ "dynnp_of" "dynn_Derby" }
-		{ "dynnp_of" "dynn_Northampton" }
-		{ "dynnp_of" "dynn_Bedford" }
 		"dynn_Crawford"
 		"dynn_Anderson"
 		"dynn_Gomez"
@@ -103,9 +86,6 @@
 		"dynn_Wong"
 		"dynn_Chen"
 		"dynn_Ramsay"
-		{ "dynnp_of" "dynn_Angus" }
-		{ "dynnp_of" "dynn_Carrick" }
-		{ "dynnp_of" "dynn_Galloway" }
 		"dynn_Fontana"
 		"dynn_Mendoza"
 		"dynn_Chavez"
@@ -182,7 +162,7 @@
 		"dynn_Romano"
 		"dynn_Bianchi"
 		"dynn_Louis"
-		"dynn_Phillpis"
+		"dynn_Phillips"
 		"dynn_Navarro"
 		"dynn_Colombo"
 		"dynn_Wu"
@@ -378,7 +358,7 @@
 		"dynn_Romano"
 		"dynn_Bianchi"
 		"dynn_Louis"
-		"dynn_Phillpis"
+		"dynn_Phillips"
 		"dynn_Navarro"
 		"dynn_Colombo"
 		"dynn_Wu"
