@@ -2762,3 +2762,465 @@ k_angalia = {
 		}
 	}
 }
+k_elysium_east = {
+	color = { 0 216 255 }
+	color2 = { 255 255 255 }
+	
+	capital = c_elysium_1_1
+	
+	d_elysium_4 = {
+		color = { 48 191 170 }
+		color2 = { 255 255 255 }
+		
+		capital = c_elysium_4_1
+		
+		c_elysium_4_4 = {
+			color = { 43 200 184 }
+			color2 = { 255 255 255 }
+			
+			b_elysium_4_4_3 = {
+				province = 291
+				
+				color = { 255 196 106 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_elysium_4_4_2 = {
+				province = 292
+				
+				color = { 123 44 109 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_elysium_4_4_1 = {
+				province = 293
+				
+				color = { 76 230 134 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+		c_elysium_4_3 = {
+			color = { 37 209 199 }
+			color2 = { 255 255 255 }
+			
+			b_elysium_4_3_3 = {
+				province = 294
+				
+				color = { 122 150 28 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_elysium_4_3_2 = {
+				province = 295
+				
+				color = { 35 148 228 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_elysium_4_3_1 = {
+				province = 296
+				
+				color = { 27 43 58 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+		c_elysium_4_2 = {
+			color = { 31 218 215 }
+			color2 = { 255 255 255 }
+			
+			b_elysium_4_2_4 = {
+				province = 297
+				
+				color = { 129 89 116 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_elysium_4_2_3 = {
+				province = 298
+				
+				color = { 203 156 5 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_elysium_4_2_2 = {
+				province = 299
+				
+				color = { 134 93 74 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_elysium_4_2_1 = {
+				province = 300
+				
+				color = { 17 252 148 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+		c_elysium_4_1 = {
+			color = { 24 222 227 }
+			color2 = { 255 255 255 }
+			
+			b_elysium_4_1_5 = {
+				province = 301
+				
+				color = { 214 57 10 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_elysium_4_1_4 = {
+				province = 302
+				
+				color = { 191 196 92 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_elysium_4_1_3 = {
+				province = 303
+				
+				color = { 14 214 82 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_elysium_4_1_2 = {
+				province = 304
+				
+				color = { 149 241 80 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_elysium_4_1_1 = {
+				province = 305
+				
+				color = { 143 198 174 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+	}
+	d_elysium_3 = {
+		color = { 24 222 227 }
+		color2 = { 255 255 255 }
+		
+		capital = c_elysium_3_1
+		
+		c_elysium_3_3 = {
+			color = { 17 221 236 }
+			color2 = { 255 255 255 }
+			
+			b_elysium_3_3_3 = {
+				province = 306
+				
+				color = { 127 103 74 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_elysium_3_3_2 = {
+				province = 307
+				
+				color = { 145 152 109 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_elysium_3_3_1 = {
+				province = 308
+				
+				color = { 137 132 30 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+		c_elysium_3_2 = {
+			color = { 9 219 245 }
+			color2 = { 255 255 255 }
+			
+			b_elysium_3_2_3 = {
+				province = 309
+				
+				color = { 17 68 66 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_elysium_3_2_2 = {
+				province = 310
+				
+				color = { 32 190 176 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_elysium_3_2_1 = {
+				province = 311
+				
+				color = { 40 160 210 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+		c_elysium_3_1 = {
+			color = { 0 215 254 }
+			color2 = { 255 255 255 }
+			
+			b_elysium_3_1_4 = {
+				province = 312
+				
+				color = { 70 106 124 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_elysium_3_1_3 = {
+				province = 313
+				
+				color = { 131 77 187 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_elysium_3_1_2 = {
+				province = 314
+				
+				color = { 199 116 67 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_elysium_3_1_1 = {
+				province = 315
+				
+				color = { 96 38 52 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+	}
+	d_elysium_2 = {
+		color = { 0 215 254 }
+		color2 = { 255 255 255 }
+		
+		capital = c_elysium_2_1
+		
+		c_elysium_2_4 = {
+			color = { 0 205 255 }
+			color2 = { 255 255 255 }
+			
+			b_elysium_2_4_4 = {
+				province = 316
+				
+				color = { 20 60 98 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_elysium_2_4_3 = {
+				province = 317
+				
+				color = { 228 154 214 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_elysium_2_4_2 = {
+				province = 318
+				
+				color = { 200 78 126 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_elysium_2_4_1 = {
+				province = 319
+				
+				color = { 36 240 184 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+		c_elysium_2_3 = {
+			color = { 0 194 255 }
+			color2 = { 255 255 255 }
+			
+			b_elysium_2_3_3 = {
+				province = 320
+				
+				color = { 142 50 3 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_elysium_2_3_2 = {
+				province = 321
+				
+				color = { 186 235 90 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_elysium_2_3_1 = {
+				province = 322
+				
+				color = { 90 255 52 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+		c_elysium_2_2 = {
+			color = { 0 183 255 }
+			color2 = { 255 255 255 }
+			
+			b_elysium_2_2_4 = {
+				province = 323
+				
+				color = { 174 5 50 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_elysium_2_2_3 = {
+				province = 324
+				
+				color = { 104 14 8 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_elysium_2_2_2 = {
+				province = 325
+				
+				color = { 244 25 200 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_elysium_2_2_1 = {
+				province = 326
+				
+				color = { 111 25 70 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+		c_elysium_2_1 = {
+			color = { 0 172 255 }
+			color2 = { 255 255 255 }
+			
+			b_elysium_2_1_4 = {
+				province = 327
+				
+				color = { 124 238 99 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_elysium_2_1_3 = {
+				province = 328
+				
+				color = { 30 1 37 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_elysium_2_1_2 = {
+				province = 329
+				
+				color = { 79 19 250 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_elysium_2_1_1 = {
+				province = 330
+				
+				color = { 77 155 117 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+	}
+	d_elysium_1 = {
+		color = { 0 172 255 }
+		color2 = { 255 255 255 }
+		
+		capital = c_elysium_1_1
+		
+		c_elysium_1_3 = {
+			color = { 0 161 255 }
+			color2 = { 255 255 255 }
+			
+			b_elysium_1_3_3 = {
+				province = 331
+				
+				color = { 84 198 82 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_elysium_1_3_2 = {
+				province = 332
+				
+				color = { 110 65 164 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_elysium_1_3_1 = {
+				province = 333
+				
+				color = { 245 129 96 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+		c_elysium_1_2 = {
+			color = { 0 150 255 }
+			color2 = { 255 255 255 }
+			
+			b_elysium_1_2_3 = {
+				province = 334
+				
+				color = { 136 53 101 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_elysium_1_2_2 = {
+				province = 335
+				
+				color = { 208 64 63 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_elysium_1_2_1 = {
+				province = 336
+				
+				color = { 127 44 244 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+		c_elysium_1_1 = {
+			color = { 0 139 255 }
+			color2 = { 255 255 255 }
+			
+			b_elysium_1_1_5 = {
+				province = 337
+				
+				color = { 136 98 112 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_elysium_1_1_4 = {
+				province = 338
+				
+				color = { 255 237 25 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_elysium_1_1_3 = {
+				province = 339
+				
+				color = { 92 76 215 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_elysium_1_1_2 = {
+				province = 340
+				
+				color = { 225 136 106 }
+				color2 = { 255 255 255 }
+				
+			}
+			b_elysium_1_1_1 = {
+				province = 341
+				
+				color = { 148 136 62 }
+				color2 = { 255 255 255 }
+				
+			}
+		}
+	}
+}
