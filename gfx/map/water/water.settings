@@ -71,9 +71,15 @@
 "WaterFlowNormalScale" = 0.025000							# Water scale
 "WaterFlowNormalFlatten" = @wave_flatness 							# ?
 
-"WaterFadeShoreMaskDepth" = 0.1						# 0.5 Shoreline smoothness. low is jagged, high is smooth. High lowers the water. 
+
+# "WaterFadeShoreMaskDepth" = 0.5						# Shoreline smoothness. low is jagged, high is smooth. High lowers the water. 
+# "WaterFadeShoreMaskSharpness" = 5
+# "WaterSeeThroughDensity" = 0.8						# How fast water becomes opaque with depth
+
+
+"WaterFadeShoreMaskDepth" = 0.1						# Shoreline smoothness. low is jagged, high is smooth. High lowers the water. 
 "WaterFadeShoreMaskSharpness" = 50
-"WaterSeeThroughDensity" = 10						# How fast water becomes opaque with depth
+"WaterSeeThroughDensity" = 2.5						# How fast water becomes opaque with depth
 "WaterSeeThroughDensityAngleOffset" = 0						# How fast water becomes opaque with depth
 "WaterSeeThroughShoreMaskDepth" = 20
 "WaterSeeThroughShoreMaskSharpness" = 1
